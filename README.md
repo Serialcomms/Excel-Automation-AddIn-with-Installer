@@ -1,5 +1,6 @@
 # Excel Automation Add-In with Installer in VB.Net
 Functional Excel Automation Add-In with Installer, both written in VB.Net
+
 Full Microsoft Visual Studio 2022 solution and projects
 <details><summary>Background Information</summary>
 <p>
