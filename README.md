@@ -36,9 +36,13 @@ The design goals for this project are therefore :-
 <details><summary>Dependencies</summary>
 <p>
 
-1.  Microsoft Windows 10, 64-Bit with .Net installed
-2.  Microsoft Office 32-Bit or 64-Bit installed 
-3.  Microsoft Visual Studio 2022
+A PC with the following software installed is required. 
+
+1.  Microsoft Windows 10, 64-Bit with .Net
+2.  Microsoft Office/Excel 32-Bit or 64-Bit
+3.  Microsoft Visual Studio 2022 (any edition)
+
+
    
 
 </p>
