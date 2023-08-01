@@ -95,7 +95,8 @@ Public Class Installer
             SetKey.SetValue("", Environment.SystemDirectory & "\mscoree.dll", RegistryValueKind.String)
 
             ' 32/64 bit registration is effectively set by the Installer's Custom Actions
-            ' Change Run64Bit to false for 32-bit Office registration
+            ' Change Run64Bit setting to false for 32-bit Office registration :-
+
             ' Install   > Primary Output > Properties > Run64Bit = True
             ' Commit    > Primary Output > Properties > Run64Bit = True
             ' Rollback  > Primary Output > Properties > Run64Bit = True
