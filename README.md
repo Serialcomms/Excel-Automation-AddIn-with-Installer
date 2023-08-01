@@ -44,6 +44,8 @@ The design goals for this project are therefore :-
 </p>
 </details> 
 
-Optional Utilities
+<details><summary>Optional Utilities</summary>
 1. https://www.nirsoft.net/utils/registered_dll_view.html
 2. 
+</p>
+</details> 
