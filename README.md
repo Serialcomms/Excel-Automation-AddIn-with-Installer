@@ -24,11 +24,11 @@ Whilst these functions work well, the deployment of them can be more problematic
 The design goals for this project are therefore :-
 
 1.  Working Excel Automation Add-In with sample functions
-2.  Integrated 'Click-Through' installer, more familiar to end-users
+2.  Integrated 'Click-Through' Installer, more familiar to end-users
 3.  All development in VB.Net, using Microsoft Visual Studio 2022
 4.  No third-party libraries or utilities required
 5.  Coding style to support infrequent developers
-6.  
+6.  Supports 32-Bit and 64-Bit Office - see later for details
 
 </p>
 </details> 
