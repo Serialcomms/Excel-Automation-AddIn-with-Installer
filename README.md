@@ -64,9 +64,9 @@ The following utility is useful to inspect the Registration process, but is not 
 
 The Automation AddIn needs to be registered during the installation process. 
   
-Different values need to be writted to the Registry for 32-Bit and 64-Bit version of Office.
+Different values need to be written to the Registry for 32-Bit and 64-Bit version of Office.
 
-The installer needs to be configured correctly for the version required.
+The installer provides these values, but needs to be configured correctly for the version required.
 
 Separate installers should be built for each version required. 
 
