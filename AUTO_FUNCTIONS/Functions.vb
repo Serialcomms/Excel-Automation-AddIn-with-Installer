@@ -6,6 +6,7 @@ Imports System.Runtime.InteropServices
 <ComVisible(True)>
 <Guid(Functions.InterfaceId)>
 Public Interface ICLASS_FUNCTIONS
+
     Function IFX() As String
 
     Function TIMENOW() As String
