@@ -28,7 +28,7 @@ The design goals for this project are therefore :-
 3.  All development in VB.Net, using Microsoft Visual Studio 2022
 4.  No third-party libraries or utilities required
 5.  Coding style to support infrequent developers
-6.  Supports 32-Bit and 64-Bit Office - see later for details
+6.  Configurable for 32-Bit or 64-Bit Office - see later for details
 
 </p>
 </details> 
