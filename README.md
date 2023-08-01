@@ -32,6 +32,17 @@ The design goals for this project are therefore :-
 </p>
 </details> 
 
+<details><summary>Dependencies</summary>
+<p>
+
+1.  Microsoft Windows 10, 64-Bit with .Net
+2.  Microsoft Office 32-Bit or 64-Bit
+3.  Microsoft Visual Studio 2022
+   
+
+</p>
+</details> 
+
 Optional Utilities
 1. https://www.nirsoft.net/utils/registered_dll_view.html
 2. 
