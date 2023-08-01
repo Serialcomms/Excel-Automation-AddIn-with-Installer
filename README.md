@@ -57,3 +57,11 @@ The following utility is useful to inspect the Registration process, but is not 
 2. 
 </p>
 </details> 
+
+<details><summary>32/64 Bit Office</summary>
+<p>
+The AddIn needs to be registered during the installation process. 
+
+</p>
+</details> 
+
