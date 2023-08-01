@@ -1,5 +1,5 @@
-# Excel Automation Add-In with Installer
-Excel Automation Add-In with Installer in vb.net
+# Excel Automation Add-In with Installer in VB.Net
+Excel Automation Add-In with Installer in VB.Net
 
 Excel User-Defined Functions (UDFs) as developed in VB.Net have been around for many years, an early example of which is published here - http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
 
