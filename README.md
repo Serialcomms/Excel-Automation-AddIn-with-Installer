@@ -12,3 +12,7 @@ The design goals for this project are therefore :-
 3.  No third-party libraries or utilities required
 4.  Coding style to support infrequent developers
 5.  Fully-functional, integrated deliverable which can be studied and modified as required.
+
+Optional Utilities
+1. https://www.nirsoft.net/utils/registered_dll_view.html
+2. 
