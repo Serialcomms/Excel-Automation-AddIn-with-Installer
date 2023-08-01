@@ -1,6 +1,8 @@
 # Excel Automation Add-In with Installer in VB.Net
 Excel Automation Add-In with Installer in VB.Net
 
+Fully-functional, integrated deliverable which can be studied and modified as required.
+
 <details><summary>Background Information</summary>
 <p>
   
@@ -25,7 +27,7 @@ The design goals for this project are therefore :-
 2.  All development in VB.Net, using Microsoft Visual Studio 2022
 3.  No third-party libraries or utilities required
 4.  Coding style to support infrequent developers
-5.  Fully-functional, integrated deliverable which can be studied and modified as required.
+5. 
 
 6.  
 
