@@ -1,5 +1,5 @@
 # Excel Automation Add-In with Installer in VB.Net
-Excel Automation Add-In with Installer in VB.Net
+Excel Automation Add-In with Installer, both written in VB.Net
 
 Fully-functional, integrated deliverable which can be studied and modified as required.
 
