@@ -14,7 +14,7 @@ End Interface
 
 <ComVisible(True)>
 <Guid(Functions.ClassId)>
-<ProgId("AUTOMATION.Formulas")>
+<ProgId("AUTOMATION.Functions")>
 <ClassInterface(ClassInterfaceType.None)>
 <ComDefaultInterface(GetType(ICLASS_FUNCTIONS))>
 Public Class Functions
