@@ -19,6 +19,7 @@ Partial Public Class Functions
         End If
 
     End Sub
+
     Public Sub OnDisconnection(RemoveMode As ext_DisconnectMode, ByRef custom As Array) Implements IDTExtensibility2.OnDisconnection
 
         Throw New NotImplementedException()

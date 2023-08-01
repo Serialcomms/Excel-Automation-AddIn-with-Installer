@@ -41,6 +41,7 @@ Public Class Functions
         Return "AUTO FX OK"
 
     End Function
+
     Private Function TIMENOW() As String Implements ICLASS_FUNCTIONS.TIMENOW
 
         EXCEL.Volatile()
