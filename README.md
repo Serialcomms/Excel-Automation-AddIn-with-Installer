@@ -48,11 +48,10 @@ A 'fresh build' of all the above components is recommended, on a dedicated devel
 </details> 
 
 <details><summary>Optional Utilities</summary>
-
+<p>
 
 The following utility is useful to inspect the Registration process, but is not mandatory.
 
-  
 1. https://www.nirsoft.net/utils/registered_dll_view.html
   
 2. 
