@@ -95,6 +95,11 @@ Public Class Installer
             SetKey.SetValue("", Environment.SystemDirectory & "\mscoree.dll", RegistryValueKind.String)
 
             ' Environment.SystemDirectory = auto 32/64 bit 
+            ' Environment.SystemDirectory = C:\Windows\SysWow64 for 32-bit install
+            ' Environment.SystemDirectory = C:\Windows\System32 for 64-bit install
+
+            ' Registry = HKEY_CLASSES_ROOT\WOW6432Node\CLSID for 32-bit install
+            ' Registry = HKEY_CLASSES_ROOT\CLSID             for 64-bit install
 
             Registry.ClassesRoot.Close()
 

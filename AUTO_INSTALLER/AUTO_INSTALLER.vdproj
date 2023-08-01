@@ -34,12 +34,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6C25993ED0995D691AA9BE29E32772F0"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_A4AB9B77F10B457E96501FC28419B00C"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -47,6 +41,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_CF0ED240DA22E00545571F0BAE20282D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_6C25993ED0995D691AA9BE29E32772F0"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -323,7 +323,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Automation FX"
         "ProductCode" = "8:{48EB93FA-B6ED-4595-B526-AF0B5014D92A}"
-        "PackageCode" = "8:{865AE33C-4122-4BF4-8CEA-087EC3F4FB39}"
+        "PackageCode" = "8:{774409FB-3D59-4610-819C-7C948072E6BD}"
         "UpgradeCode" = "8:{BDA3B63B-9619-4B59-AC9F-4FE76615EFB3}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
