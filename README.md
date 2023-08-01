@@ -9,5 +9,6 @@ The design goals for this project are therefore :-
 
 1.  Integrated 'Click-Through' installer, more familiar to end-users
 2.  All development in VB.Net, using Microsoft Visual Studio 2022
-3.  No third-party libraries, or utilies required
-4.  
+3.  No third-party libraries or utilities required
+4.  Coding style to support infrequent developers
+5.  Fully-functional, integrated deliverable which can be studied and modified as required.
