@@ -11,6 +11,7 @@ Public Interface ICLASS_FUNCTIONS
     Function TIMENOW() As String
 
 End Interface
+
 <ComVisible(True)>
 <Guid(Functions.ClassId)>
 <ProgId("AUTOMATION.Formulas")>
