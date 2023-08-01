@@ -94,7 +94,9 @@ Public Class Installer
 
             SetKey.SetValue("", Environment.SystemDirectory & "\mscoree.dll", RegistryValueKind.String)
 
-            ' Environment.SystemDirectory = auto 32/64 bit 
+            ' 32/64 bit registration is effectively set by the Installer's Custom Actions
+            ' Install > Primary Output > Properties > Run64bit = True
+
             ' Environment.SystemDirectory = C:\Windows\SysWow64 for 32-bit install
             ' Environment.SystemDirectory = C:\Windows\System32 for 64-bit install
 
