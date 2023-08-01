@@ -42,14 +42,17 @@ A PC with the following software installed is required.
 2.  Microsoft Office/Excel 32-Bit or 64-Bit
 3.  Microsoft Visual Studio 2022 (any edition)
 
-
-   
+A 'fresh build' of all the above components is recommended, on a dedicated development PC if possible, and with all updates applied.
 
 </p>
 </details> 
 
 <details><summary>Optional Utilities</summary>
+
+The following utility is useful to inspect the Registration process, but is not mandatory.
+  
 1. https://www.nirsoft.net/utils/registered_dll_view.html
+  
 2. 
 </p>
 </details> 
