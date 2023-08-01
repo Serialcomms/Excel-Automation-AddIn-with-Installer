@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("AUTO_FUNCTIONS")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("AUTO_FUNCTIONS")>
-<Assembly: AssemblyCopyright("Copyright ©  2023")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTitle("Automation Title")>
+<Assembly: AssemblyDescription("Automation Description")>
+<Assembly: AssemblyCompany("Automation Company")>
+<Assembly: AssemblyProduct("Automation Product")>
+<Assembly: AssemblyCopyright("Copyright © SerialComms 2023")>
+<Assembly: AssemblyTrademark("Automation Trademark")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("5c61ff8d-825c-4e26-a5c3-8211c9f6ce98")>
+<Assembly: Guid("5c61ff8d-DEAD-BEEF-a5c3-8211c9f6ce98")>
 
 ' Version information for an assembly consists of the following four values:
 '
