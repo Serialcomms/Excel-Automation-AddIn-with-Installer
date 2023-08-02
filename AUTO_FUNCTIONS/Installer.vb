@@ -94,15 +94,16 @@ Public Class Installer
 
             SetKey.SetValue("", Environment.SystemDirectory & "\mscoree.dll", RegistryValueKind.String)
 
-            ' 32/64 bit registration is driven by the Installer Project's Custom Actions 
+            ' 32/64 bit registration is driven by the Installer Project's Custom Actions
+            ' Solution is currently configured for a 64-Bit Office registration
             ' Change Property setting Run64Bit to false for a 32-bit Office registration
 
-            ' Install   > Primary Output > Properties > Run64Bit = True
-            ' Commit    > Primary Output > Properties > Run64Bit = True
-            ' Rollback  > Primary Output > Properties > Run64Bit = True
-            ' UnInstall > Primary Output > Properties > Run64Bit = True
+            ' Install   > Primary Output > Properties > Run64Bit = False
+            ' Commit    > Primary Output > Properties > Run64Bit = False
+            ' Rollback  > Primary Output > Properties > Run64Bit = False
+            ' UnInstall > Primary Output > Properties > Run64Bit = False
 
-            ' Settings below are then configured automatically by the installer
+            ' Settings below are then configured automatically by the installer class
 
             ' Environment.SystemDirectory = C:\Windows\SysWow64 for 32-bit install
             ' Environment.SystemDirectory = C:\Windows\System32 for 64-bit install
@@ -140,7 +141,7 @@ Public Class Installer
             Dim BOXTEXT As String = Nothing
             BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & vbCrLf
             BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & vbCrLf
-            BOXTEXT &= "Registry SubKey = " & ASSEMBLY_KEYNAME & "Programmable"
+            BOXTEXT &= "Registry SubKey = " & ASSEMBLY_KEYNAME & "Programmable" & vbCrLf
             BOXTEXT &= "Message = " & ex.Message
 
             MsgBox(BOXTEXT, vbCritical + vbOKOnly, " Error deleting subkey")
