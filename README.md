@@ -96,6 +96,9 @@ After running the installer, users need to configure Excel to enable the Automat
 
 From Excel > File > Options > Add-Ins > Manage Excel Add-Ins
 
+[../../SCREENSHOTS/EXCEL_ADDIN_01.png]
+
+
 Click on Automation and scroll down and select AUTOMATION.Functions
 
 
