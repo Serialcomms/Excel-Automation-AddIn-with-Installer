@@ -47,7 +47,7 @@ Visual Studio should have the following items installed
 
 * [.Net Desktop workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_DOTNET_DESKTOP.png)
 * [Office/Sharepoint Development workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_OFFICE_DEVELOPMENT.png)
-* [Installer Projects 2022 Extension](/SCREENSHOTS/VISUAL_STUDIO_EXTENSIONS.png)
+* [Visual Studio Installer Projects 2022 Extension](/SCREENSHOTS/VISUAL_STUDIO_EXTENSIONS.png)
 
 
 </p>
