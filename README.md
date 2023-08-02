@@ -134,11 +134,10 @@ Scroll down to Automation FX] and select Uninstall
 
 <details><summary>References</summary>
 
-
+<p>
+  
 https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com
   
-<p>
-
 </p>
 </details> 
 
