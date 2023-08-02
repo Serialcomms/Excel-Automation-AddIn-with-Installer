@@ -96,9 +96,9 @@ After running the installer, users need to configure Excel to enable the Automat
 
 From Excel > File > Options > Add-Ins > Manage Excel Add-Ins
 
-From Excel > File > Options > [Add-Ins](https://github.com/Serialcomms/COM-Port-Enumeration-VBA/blob/main/Worksheet/com_port_combo_box.jpg)
+From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) 
 
- [here](/SCREENSHOTS/EXCEL_ADDIN_01.png) 
+
 
 <img src="/SCREENSHOTS/EXCEL_ADDIN_01.png" alt="Excel AddIn1" title="Excel Addin 01" width="50%" height="50%">
 
