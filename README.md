@@ -36,7 +36,7 @@ The design goals for this project are therefore :-
 <details><summary>Dependencies</summary>
 <p>
 
-A PC with the following software installed is required. 
+A Windows PC with the following software installed is required. 
 
 1.  Microsoft Windows 10, 64-Bit with .Net
 2.  Microsoft Office/Excel 32-Bit or 64-Bit
