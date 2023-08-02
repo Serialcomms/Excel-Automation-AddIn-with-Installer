@@ -46,8 +46,8 @@ A 'fresh build' of all the above components is recommended, on a dedicated devel
 Visual Studio should have the following items installed
 
 * [.Net Desktop workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_DOTNET_DESKTOP.png)
-* [Office Development workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_OFFICE_DEVELOPMENT.png)
-* [Installer Projects Extension](/SCREENSHOTS/VISUAL_STUDIO_EXTENSIONS.png)
+* [Office/Sharepoint Development workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_OFFICE_DEVELOPMENT.png)
+* [Installer Projects 2022 Extension](/SCREENSHOTS/VISUAL_STUDIO_EXTENSIONS.png)
 
 
 </p>
