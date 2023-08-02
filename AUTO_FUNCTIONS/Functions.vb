@@ -22,7 +22,7 @@ Public Class Functions
     Implements ICLASS_FUNCTIONS
 
 #Region "COM GUIDs"
-    ' These  GUIDs provide the COM identity for this class and its COM interfaces.
+    ' These GUIDs provide the COM identity for this class and its COM interfaces.
     ' If you change them, existing clients will no longer be able to access the class.
 
     Public Const ClassId As String = "df32904d-DEAD-BEEF-9352-5dc0ceafa03e"
