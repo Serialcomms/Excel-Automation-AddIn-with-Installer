@@ -109,7 +109,7 @@ Click [OK](/SCREENSHOTS/EXCEL_ADDIN_04.png) to confirm
   
 Two sample Excel formulas as supplied
 
-'=IFX()' in a Worksheet cell returns the text string 'AUTO FX OK'
+`=IFX()` in a Worksheet cell returns the text string `AUTO FX OK`
 
 
 
