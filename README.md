@@ -96,6 +96,8 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 </details> 
 
 <details><summary>References</summary>
+
+https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com
   
 <p>
 
