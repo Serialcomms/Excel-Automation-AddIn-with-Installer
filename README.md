@@ -106,7 +106,7 @@ Click [OK](/SCREENSHOTS/EXCEL_ADDIN_04.png) to confirm
 <details><summary>Automation Add-In - Excel Formulas</summary>
 <p>
   
-Two sample [Excel formulas](/SCREENSHOTS/EXCEL_FORMULAS_01.png) as supplied
+Two sample [Excel formulas](/SCREENSHOTS/EXCEL_FORMULAS_01.png) are supplied
 
 `=IFX()` in a Worksheet cell returns the text string `AUTO FX OK`
 
