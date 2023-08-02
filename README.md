@@ -124,11 +124,11 @@ as a category
 
 <details><summary>Automation Add-In - Uninstalling</summary>
 
+<p>
+
 Users can uninstall the addin by Right-Clicking the Windows Start button and selecting Apps and Features.
 
 Scroll down to [Automation FX](/SCREENSHOTS/APPS_AND_FEATURES.png) and select Uninstall
-  
-<p>
 
 </p>
 </details> 
