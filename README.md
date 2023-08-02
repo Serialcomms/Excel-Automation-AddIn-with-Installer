@@ -113,6 +113,8 @@ Two sample Excel formulas as supplied
 
 `=TIMENOW()` in a Worksheet cell returns the current time with milliseconds e.g. `12:34:56.789`
 
+This is a 'Volatile' function and will re-calculate when the F9 key is pressed or another cell changes. 
+
 
 </p>
 </details> 
