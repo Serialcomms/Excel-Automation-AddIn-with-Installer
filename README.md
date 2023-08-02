@@ -1,7 +1,7 @@
 # Excel Automation Add-In with Installer in VB.Net
-Functional Excel Automation Add-In with Installer, both written in VB.Net
+Excel User-Defined-Functions Automation Add-In with Installer, both written in VB.Net
 
-Full Microsoft Visual Studio 2022 solution and project source code.
+Full Microsoft Visual Studio 2022 solution and project source code included in repository.
 
 <details><summary>Background Information</summary>
 <p>
@@ -13,7 +13,7 @@ http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
 https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
 
 
-Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or permitted to, run command line utilities such as RegAsm to complete the installation. 
+Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or permitted to, run command line utilities such as RegAsm.exe to complete the installation. 
 
 </p>
 </details>  
@@ -23,7 +23,7 @@ Whilst these functions work well, the deployment of them can be more problematic
 
 The design goals for this project are therefore :-
 
-1.  Working Excel Automation Add-In with sample functions
+1.  Working Excel Automation Add-In with sample functions provided
 2.  Integrated 'Click-Through' Installer, more familiar to end-users
 3.  All development in VB.Net, using Microsoft Visual Studio 2022
 4.  No third-party libraries or utilities required
@@ -36,13 +36,19 @@ The design goals for this project are therefore :-
 <details><summary>Dependencies</summary>
 <p>
 
-A PC with the following software installed is required. 
+A Windows PC with the following software installed is required. 
 
 1.  Microsoft Windows 10, 64-Bit with .Net
 2.  Microsoft Office/Excel 32-Bit or 64-Bit
 3.  Microsoft Visual Studio 2022 (any edition)
 
 A 'fresh build' of all the above components is recommended, on a dedicated development PC if possible, and with all updates applied.
+Visual Studio should have the following items installed
+
+* .Net Desktop workload
+* Office Development workload
+* Installer Projects Extension
+
 
 </p>
 </details> 
@@ -74,4 +80,21 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 
 </p>
 </details> 
+
+<details><summary>Automation Add-In - User Installation</summary>
+  
+<p>
+
+</p>
+</details> 
+
+<details><summary>Automation Add-In - Excel Configuration</summary>
+  
+<p>
+
+</p>
+</details> 
+
+
+
 
