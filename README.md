@@ -103,6 +103,19 @@ Click [OK](/SCREENSHOTS/EXCEL_ADDIN_04.png) to confirm
 </p>
 </details> 
 
+
+<details><summary>Automation Add-In - Excel Formulas/summary>
+
+Two sample Excel formulas as supplied
+
+'=IFX()' in a Worksheet cell returns the text string 'IFX OK'
+
+
+<p>
+
+</p>
+</details> 
+
 <details><summary>References</summary>
 
 
