@@ -75,3 +75,20 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 </p>
 </details> 
 
+<details><summary>Automation Add-In - User Installation</summary>
+  
+<p>
+
+</p>
+</details> 
+
+<details><summary>Automation Add-In - Excel Configuration</summary>
+  
+<p>
+
+</p>
+</details> 
+
+
+
+
