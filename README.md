@@ -96,12 +96,7 @@ After running the installer, users need to configure Excel to enable the Automat
 
 From Excel > File > Options > Add-Ins > Manage Excel Add-Ins
 
-From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) 
-
-
-
-<img src="/SCREENSHOTS/EXCEL_ADDIN_01.png" alt="Excel AddIn1" title="Excel Addin 01" width="50%" height="50%">
-
+From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) > [Manage Excel Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_02.png) 
 
 Click on Automation and scroll down and select AUTOMATION.Functions
 
