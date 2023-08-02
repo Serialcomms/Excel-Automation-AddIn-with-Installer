@@ -132,7 +132,7 @@ as a category
 
 Users can uninstall the addin by Right-Clicking the Windows Start button and selecting [Apps and Features](/SCREENSHOTS/APPS_AND_FEATURES.png)
 
-Scroll down to Automation FX] and select Uninstall
+Scroll down to *Automation FX* and select Uninstall
 
 </p>
 </details> 
