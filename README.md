@@ -45,9 +45,9 @@ A Windows PC with the following software installed is required.
 A 'fresh build' of all the above components is recommended, on a dedicated development PC if possible, and with all updates applied.
 Visual Studio should have the following items installed
 
-* .Net Desktop workload
-* Office Development workload
-* Installer Projects Extension
+* [.Net Desktop workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_DOTNET_DESKTOP.png)
+* [Office Development workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_OFFICE_DEVELOPMENT.png)
+* [Installer Projects Extension](/SCREENSHOTS/VISUAL_STUDIO_EXTENSIONS.png)
 
 
 </p>
