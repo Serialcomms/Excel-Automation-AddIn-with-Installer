@@ -43,6 +43,7 @@ A Windows PC with the following software installed is required to build the solu
 3.  Microsoft Visual Studio 2022 (any edition)
 
 A 'fresh build' of all the above components is recommended, on a dedicated development PC if possible, and with all updates applied.
+
 Visual Studio should have the following items installed
 
 * [.Net Desktop workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_DOTNET_DESKTOP.png)
