@@ -104,14 +104,15 @@ Click [OK](/SCREENSHOTS/EXCEL_ADDIN_04.png) to confirm
 </details> 
 
 
-<details><summary>Automation Add-In - Excel Formulas/summary>
-
+<details><summary>Automation Add-In - Excel Formulas</summary>
+<p>
+  
 Two sample Excel formulas as supplied
 
 '=IFX()' in a Worksheet cell returns the text string 'IFX OK'
 
 
-<p>
+
 
 </p>
 </details> 
