@@ -59,8 +59,7 @@ Visual Studio should have the following items installed
 The following utility is useful to inspect the Registration process, but is not mandatory.
 
 1. https://www.nirsoft.net/utils/registered_dll_view.html
-  
-2. 
+
 </p>
 </details> 
 
