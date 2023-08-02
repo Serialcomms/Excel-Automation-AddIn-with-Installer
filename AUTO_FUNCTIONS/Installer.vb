@@ -97,8 +97,8 @@ Public Class Installer
             Registry.ClassesRoot.Close()
 
             ' 32/64 bit registration is driven by the Installer Project's Custom Actions
-            ' VSTO Solution as published is configured for a 64-Bit Office registration
-            ' Change Property setting Run64Bit to False for a 32-bit Office registration
+            ' VSTO solution as published is configured for 64-Bit Office registration
+            ' Change Property setting Run64Bit to False for 32-bit Office registration
 
             ' Install   > Primary Output > Properties > Run64Bit = False
             ' Commit    > Primary Output > Properties > Run64Bit = False
