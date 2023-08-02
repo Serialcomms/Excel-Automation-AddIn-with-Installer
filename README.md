@@ -92,7 +92,7 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 
 <p>
 
-After running the installer, users need to configure Excel to enable the Automation Add-In.
+After running the [installer](/SCREENSHOTS/USER_INSTALL_01.png), users need to configure Excel to enable the Automation Add-In.
 
 From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) > [Manage Excel Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_02.png) 
 
