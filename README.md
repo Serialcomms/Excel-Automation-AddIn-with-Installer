@@ -13,7 +13,7 @@ http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
 https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
 
 
-Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or permitted to, run command line utilities such as RegAsm.exe to complete the installation. 
+Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or permitted to run command-line utilities such as RegAsm.exe to complete the installation. 
 
 </p>
 </details>  
@@ -96,6 +96,7 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 </details> 
 
 <details><summary>References</summary>
+
 
 https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com
   
