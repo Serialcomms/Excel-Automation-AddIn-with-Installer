@@ -115,6 +115,9 @@ Two sample [Excel formulas](/SCREENSHOTS/EXCEL_FORMULAS_01.png) as supplied
 
 This is a 'Volatile' function and will re-calculate when the F9 key is pressed or another cell changes. 
 
+Functions offered by the Add-In can be listed by clicking on Formulas > Insert Function and selecting [AUTOMATION.Functions](/SCREENSHOTS/EXCEL_INSERT_FUNCTION.png)
+as a category
+
 
 </p>
 </details> 
