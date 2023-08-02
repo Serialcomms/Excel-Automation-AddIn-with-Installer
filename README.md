@@ -98,7 +98,7 @@ From Excel > File > Options > Add-Ins > Manage Excel Add-Ins
 
 From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) > [Manage Excel Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_02.png) 
 
-Click on Automation and scroll down and select AUTOMATION.Functions
+Click on Automation, scroll down and select [AUTOMATION.Functions](/SCREENSHOTS/EXCEL_ADDIN_03.png)
 
 
 </p>
