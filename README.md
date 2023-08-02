@@ -85,8 +85,7 @@ A Universal 32/64 installer is not supported at this time, but could be develope
   
 <p>
 
-The solution generates two output files, setup.exe and fx.msi, either of which can be run
-by the end user to install the addin. 
+The solution generates two output files, setup.exe and AUTO_INSTALLER.msi, either of which can be run by the end user to install and uninstall the automation addin. 
 </p>
 </details> 
 
