@@ -111,7 +111,7 @@ Two sample Excel formulas as supplied
 
 `=IFX()` in a Worksheet cell returns the text string `AUTO FX OK`
 
-
+`=TIMENOW()` in a Worksheet cell returns the current time with milliseconds e.g. `12:34:56.789`
 
 
 </p>
