@@ -1,5 +1,5 @@
 # Excel Automation Add-In with Installer in VB.Net
-Excel User-Defined-Functions Automation Add-In with Installer, both written in VB.Net
+Excel User-Defined-Functions (UDF) Automation Add-In with Installer, both written in VB.Net
 
 Full Microsoft Visual Studio 2022 solution and project source code included in repository.
 
@@ -36,13 +36,14 @@ The design goals for this project are therefore :-
 <details><summary>Dependencies</summary>
 <p>
 
-A Windows PC with the following software installed is required. 
+A Windows PC with the following software installed is required to build the solution 
 
 1.  Microsoft Windows 10, 64-Bit with .Net
 2.  Microsoft Office/Excel 32-Bit or 64-Bit
 3.  Microsoft Visual Studio 2022 (any edition)
 
 A 'fresh build' of all the above components is recommended, on a dedicated development PC if possible, and with all updates applied.
+
 Visual Studio should have the following items installed
 
 * [.Net Desktop workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_DOTNET_DESKTOP.png)
@@ -59,8 +60,7 @@ Visual Studio should have the following items installed
 The following utility is useful to inspect the Registration process, but is not mandatory.
 
 1. https://www.nirsoft.net/utils/registered_dll_view.html
-  
-2. 
+
 </p>
 </details> 
 
@@ -107,7 +107,7 @@ Click [OK](/SCREENSHOTS/EXCEL_ADDIN_04.png) to confirm
 <details><summary>Automation Add-In - Excel Formulas</summary>
 <p>
   
-Two sample [Excel formulas](/SCREENSHOTS/EXCEL_FORMULAS_01.png) as supplied
+Two sample [Excel formulas](/SCREENSHOTS/EXCEL_FORMULAS_01.png) are supplied
 
 `=IFX()` in a Worksheet cell returns the text string `AUTO FX OK`
 
@@ -135,11 +135,10 @@ Scroll down to Automation FX] and select Uninstall
 
 <details><summary>References</summary>
 
-
+<p>
+  
 https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com
   
-<p>
-
 </p>
 </details> 
 
