@@ -1,4 +1,4 @@
-# Excel Automation Add-In with Installer in VB.Net
+# Excel User-Defined-Functions Automation Add-In with Installer in VB.Net
 Excel Automation Add-In with Installer, both written in VB.Net
 
 Full Microsoft Visual Studio 2022 solution and project source code included in repository.
