@@ -94,12 +94,11 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 
 After running the installer, users need to configure Excel to enable the Automation Add-In.
 
-From Excel > File > Options > Add-Ins > Manage Excel Add-Ins
-
 From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) > [Manage Excel Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_02.png) 
 
 Click on Automation, scroll down and select [AUTOMATION.Functions](/SCREENSHOTS/EXCEL_ADDIN_03.png)
 
+Click [OK](/SCREENSHOTS/EXCEL_ADDIN_04.png) to confirm
 
 </p>
 </details> 
