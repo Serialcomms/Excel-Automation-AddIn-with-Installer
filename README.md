@@ -85,7 +85,10 @@ A Universal 32/64 installer is not supported at this time, but could be develope
   
 <p>
 
-Visual Studio generates two output files, `setup.exe` and `AUTO_INSTALLER.msi`, either of which can be run by the end user to install and uninstall the automation addin. 
+Visual Studio generates two output files, `setup.exe` and `AUTO_INSTALLER.msi`
+
+Either of these files can be distributed to, and run by end users, to install and uninstall as required. 
+
 </p>
 </details> 
 
