@@ -144,7 +144,7 @@ Class module `Installer.vb` performs the Assembly Registration and Registry upda
 
 Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb.net in file `Installer.Designer.vb` when a new Installer class module is added to a project.
 
-This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` , which is then functionally equivalent[^1] to running `RegAsm.exe` manually. 
+This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)`, which then becomes functionally equivalent[^1] to running `RegAsm.exe` manually. 
 
 The following points should therefore be observed to avoid performing conflicting registry updates during development and testing.
 
