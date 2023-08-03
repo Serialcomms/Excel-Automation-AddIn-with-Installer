@@ -146,7 +146,7 @@ Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb
 
 This tag is used by the installer to call `Public Overrides Sub Install(stateSaver As IDictionary)` to perform the Assembly Registration.
 
-This action is functionally equivalent [^1] to running `RegAsm.exe` manually. 
+This action is functionally equivalent[^1] to running `RegAsm.exe` manually. 
 
 The following points should therefore be observed to avoid performing conflicting registry updates during development and testing.
 
@@ -163,7 +163,7 @@ The tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **no
 
 <p>
   
-https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com [^1]:
+https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com[^1]:
 
 https://support.microsoft.com/en-us/topic/excel-com-add-ins-and-automation-add-ins-91f5ff06-0c9c-b98e-06e9-3657964eec72
 
