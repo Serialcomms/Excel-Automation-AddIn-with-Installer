@@ -140,13 +140,17 @@ Scroll down to *Automation FX* and select Uninstall
 <details><summary>Implementation Notes</summary>
 <p>
 
-To avoid registry problems, the following points should be observed :-
+Class module `Installer.vb` performs the Registry updates required when the developer or end-users run the installer. 
 
-In module AUTO_FUNCTIONS > Properties, the  should **not** be selected at any time.
+The following points should therefore be observed to avoid conflicting registry updates during development and testing.
+
+In module AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
 1. `Register for COM Interop` in Compile section
 2. `Make assembly COM-Visible` in Application > Assembly Information section
 
-The `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` 'decorations' should also *not* be used.
+The tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** be used in any module.
+
+Tag `<System.ComponentModel.RunInstaller(True)>` is provided by vb.net in file `Installer.Designer.vb` 
 
 
 </p>
