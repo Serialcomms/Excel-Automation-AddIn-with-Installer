@@ -144,6 +144,8 @@ The following options in module AUTO_FUNCTIONS Properties should *NOT* be select
 1. `Register for COM Interop` in Compile section
 2. `Make assembly COM-Visible` in Application > Assembly Information
 
+The 
+
 </p>
 </details> 
 
