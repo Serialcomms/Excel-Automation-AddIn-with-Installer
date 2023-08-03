@@ -140,9 +140,9 @@ Scroll down to *Automation FX* and select Uninstall
 <details><summary>Implementation Notes</summary>
 <p>
 
-The following should *NOT* be selected at any time.
-1. `Register for COM Interop` in Compile Options 
-2. `Make assembly COM-Visible` in Assembly Information
+The following options in module AUTO_FUNCTIONS Properties should *NOT* be selected at any time.
+1. `Register for COM Interop` in Compile section
+2. `Make assembly COM-Visible` in Application > Assembly Information
 
 </p>
 </details> 
