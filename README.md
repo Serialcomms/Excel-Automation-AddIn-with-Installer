@@ -140,7 +140,9 @@ Scroll down to *Automation FX* and select Uninstall
 <details><summary>Implementation Notes</summary>
 <p>
 
-The following options in module AUTO_FUNCTIONS > Properties should *NOT* be selected at any time.
+To avoid registry problems, the following points should be observed :-
+
+In module AUTO_FUNCTIONS > Properties, the  should **not** be selected at any time.
 1. `Register for COM Interop` in Compile section
 2. `Make assembly COM-Visible` in Application > Assembly Information section
 
