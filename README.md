@@ -142,7 +142,7 @@ Scroll down to *Automation FX* and select Uninstall
 
 Class module `Installer.vb` performs the Registry updates required when the developer or end-users run the installer .exe or .msi programs. 
 
-Tag `<System.ComponentModel.RunInstaller(True)>` is provided by vb.net in file `Installer.Designer.vb`.
+Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb.net in file `Installer.Designer.vb`
 
 This tag is used by the installer to call sub `Public Overrides Sub Install(stateSaver As IDictionary)` to perform the Assembly Registration.
 
@@ -153,9 +153,6 @@ In module AUTO_FUNCTIONS > Properties, the options below should **not** be selec
 2. `Make assembly COM-Visible` in Application > Assembly Information section
 
 The tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** be used in any module.
-
-
-
 
 
 </p>
