@@ -1,5 +1,5 @@
 # Excel Automation Add-In with Installer in VB.Net
-Excel User-Defined-Functions (UDF) Automation Add-In with integrated Installer, both written in VB.Net
+Excel User-Defined-Functions (UDF) Automation Add-In[^2] with integrated Installer, both written in VB.Net
 
 Full Microsoft Visual Studio 2022 solution and project source code included in repository.
 
@@ -159,16 +159,10 @@ The tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **no
 </p>
 </details> 
 
-<details><summary>References</summary>
-
-<p>
   
 [^1]:https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com
 
-https://support.microsoft.com/en-us/topic/excel-com-add-ins-and-automation-add-ins-91f5ff06-0c9c-b98e-06e9-3657964eec72
+[^2]:https://support.microsoft.com/en-us/topic/excel-com-add-ins-and-automation-add-ins-91f5ff06-0c9c-b98e-06e9-3657964eec72
 
-  
-</p>
-</details> 
-
+ 
 
