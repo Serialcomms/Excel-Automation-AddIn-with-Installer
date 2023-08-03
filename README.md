@@ -1,5 +1,5 @@
 # Excel Automation Add-In with Installer in VB.Net
-Excel User-Defined-Functions (UDF) Automation Add-In[^2] with integrated Installer, both written in VB.Net
+Excel User-Defined-Functions (UDF) Automation Add-In [^2] with integrated Installer, both written in VB.Net
 
 Full Microsoft Visual Studio 2022 solution and project source code included in repository.
 
@@ -144,7 +144,7 @@ Class module `Installer.vb` performs the Assembly Registration and Registry upda
 
 Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb.net in file `Installer.Designer.vb` when a new Installer class is added to a project.
 
-This tag is used by the installer to call `Public Overrides Sub Install(stateSaver As IDictionary)` , which is functionally equivalent[^1] to running `RegAsm.exe` manually. 
+This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` , which is functionally equivalent[^1] to running `RegAsm.exe` manually. 
 
 The following points should therefore be observed to avoid performing conflicting registry updates during development and testing.
 
