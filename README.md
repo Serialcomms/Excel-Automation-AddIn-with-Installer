@@ -163,7 +163,7 @@ The tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **no
 
 <p>
   
-https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com[^1]:
+[^1]:https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com
 
 https://support.microsoft.com/en-us/topic/excel-com-add-ins-and-automation-add-ins-91f5ff06-0c9c-b98e-06e9-3657964eec72
 
