@@ -146,7 +146,7 @@ Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb
 
 This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)`, which then becomes functionally equivalent[^1] to running `RegAsm.exe` manually. 
 
-The following points should therefore be observed to avoid performing conflicting registry updates during development and testing.
+The following points should therefore be observed to avoid performing conflicting Registry updates during development and testing.
 
 In module AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
 1. `Register for COM Interop` in Compile section
