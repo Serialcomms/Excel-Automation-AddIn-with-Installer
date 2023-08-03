@@ -144,7 +144,8 @@ The following options in module AUTO_FUNCTIONS > Properties should *NOT* be sele
 1. `Register for COM Interop` in Compile section
 2. `Make assembly COM-Visible` in Application > Assembly Information section
 
-The 
+The `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` 'decorations' should also *not* be used.
+
 
 </p>
 </details> 
