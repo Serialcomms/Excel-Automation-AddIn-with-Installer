@@ -171,7 +171,7 @@ ___
 
 #### 2. Primary Output Properties
 
-In project AUTO_INSTALLER > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to `**vsdrpDoNotRegister**`
+In project AUTO_INSTALLER > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
 
 </p>
 </details> 
