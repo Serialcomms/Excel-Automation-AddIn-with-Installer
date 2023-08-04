@@ -6,11 +6,11 @@ Full Microsoft Visual Studio 2022 solution and project source code included in r
 <details><summary>Background Information</summary>
 <p>
   
-Excel User-Defined Functions (UDFs) as developed in VB.Net have been around for many years, early examples of which are published here - 
+Excel User-Defined Functions (UDFs) as developed in VB.Net have been around for many years, early examples of which include - 
 
-http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
+ - http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
 
-https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
+- https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
 
 Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or are permitted to run command-line utilities such as RegAsm.exe to complete the installation. 
 
