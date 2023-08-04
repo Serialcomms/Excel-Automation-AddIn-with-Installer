@@ -79,7 +79,7 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 </p>
 </details> 
 
-<details><summary>Automation Add-In </summary>  
+<details><summary>Automation Add-In</summary>  
 <p>
 
 <details><summary>Automation Add-In - User Installation</summary>  
