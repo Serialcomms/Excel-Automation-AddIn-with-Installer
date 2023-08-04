@@ -155,7 +155,7 @@ In module AUTO_FUNCTIONS > Properties, the options below should **not** be selec
 1. `Register for COM Interop` in Compile section
 2. `Make assembly COM-Visible` in Application > Assembly Information section
 
-The tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** be used in any module.
+Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** be used in any module.
 
 </p>
 </details> 
