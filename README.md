@@ -127,7 +127,6 @@ as a category
 </details> 
 
 <details><summary>Automation Add-In - Uninstalling</summary>
-
 <p>
 
 Users can uninstall the addin by Right-Clicking the Windows Start button and selecting [Apps and Features](/SCREENSHOTS/APPS_AND_FEATURES.png)
@@ -141,7 +140,6 @@ Scroll down to *Automation FX* and select Uninstall
 <p>
 
 <details><summary>Installer Class Module</summary>
-
 <p>
 
 #### Installer Class Module
@@ -158,6 +156,9 @@ Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1
 </p>
 </details> 
 
+<details><summary>COM Configuration Options</summary>
+<p>
+
 #### COM Configuration Options 
 The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
 
@@ -166,6 +167,9 @@ In module AUTO_FUNCTIONS > Properties, the options below should **not** be selec
 - `Make assembly COM-Visible` in section Application > Assembly Information
 
 Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** be used in any module.
+
+</p>
+</details> 
 
 </p>
 </details> 
