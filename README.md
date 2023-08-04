@@ -12,7 +12,6 @@ http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
 
 https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
 
-
 Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or are permitted to run command-line utilities such as RegAsm.exe to complete the installation. 
 
 </p>
@@ -93,7 +92,6 @@ Either of these files can be distributed to, and run by end users, to install an
 </details> 
 
 <details><summary>Automation Add-In - Excel Configuration</summary>
-
 <p>
 
 After running the [installer](/SCREENSHOTS/USER_INSTALL_01.jpg), users need to configure Excel to enable the Automation Add-In.
@@ -106,7 +104,6 @@ Click [OK](/SCREENSHOTS/EXCEL_ADDIN_04.png) to confirm
 
 </p>
 </details> 
-
 
 <details><summary>Automation Add-In - Excel Formulas</summary>
 <p>
@@ -121,7 +118,6 @@ This is a 'Volatile' function and will re-calculate when the F9 key is pressed o
 
 Functions offered by the Add-In can be listed by clicking on Formulas > Insert Function and selecting [AUTOMATION.Functions](/SCREENSHOTS/EXCEL_INSERT_FUNCTION.png)
 as a category
-
 
 </p>
 </details> 
@@ -163,7 +159,7 @@ Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1
 <p>
 
 #### 1. COM Configuration Options 
-The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
+The following points should always be observed to avoid performing any conflicting Registry updates during development and testing.
 
 In module AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
 - [ ] `Register for COM Interop` in section Compile 
