@@ -140,6 +140,10 @@ Scroll down to *Automation FX* and select Uninstall
 <details><summary>Implementation Notes</summary>
 <p>
 
+<details><summary>Installer Class Module</summary>
+
+<p>
+
 #### Installer Class Module
 Class module `Installer.vb` performs the Assembly Registration and Registry updates required when the developer or end-user runs the installer .exe or .msi program. 
 
@@ -150,6 +154,9 @@ This tag is used by the installer program to call `Public Overrides Sub Install(
 Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1] to running `RegAsm.exe` manually. 
 
 `RegAsm.exe` itself  _uses methods exposed by RegistrationServices_ [^3]
+
+</p>
+</details> 
 
 #### COM Configuration Options 
 The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
