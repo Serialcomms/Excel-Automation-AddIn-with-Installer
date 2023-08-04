@@ -147,7 +147,8 @@ Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb
 This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` via [Custom Action Properties](/SCREENSHOTS/Properties_Run64Bit.png) in module AUTO_INSTALLER.
 
 
-Sub Install then calls RegisterAssembly which is functionally equivalent[^1] to running `RegAsm.exe` manually. 
+Sub `Install` then calls `RegisterAssembly` which is functionally equivalent[^1] to running `RegAsm.exe` manually. 
+RegAsm.exe "uses methods exposed by RegistrationServices"[^3]
 
 The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
 
@@ -164,6 +165,9 @@ Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** 
 [^1]:https://learn.microsoft.com/en-us/dotnet/framework/interop/registering-assemblies-with-com
 
 [^2]:https://support.microsoft.com/en-us/topic/excel-com-add-ins-and-automation-add-ins-91f5ff06-0c9c-b98e-06e9-3657964eec72
+
+[^3]:https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.registrationservices?view=netframework-4.8.1
+
 
  
 
