@@ -168,7 +168,3 @@ Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** 
 [^2]:https://support.microsoft.com/en-us/topic/excel-com-add-ins-and-automation-add-ins-91f5ff06-0c9c-b98e-06e9-3657964eec72
 
 [^3]:https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.registrationservices?view=netframework-4.8.1
-
-
- 
-
