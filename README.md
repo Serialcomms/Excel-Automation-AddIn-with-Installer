@@ -148,6 +148,7 @@ This tag is used by the installer program to call `Public Overrides Sub Install(
 
 
 Sub `Install` then calls `RegisterAssembly` which is functionally equivalent[^1] to running `RegAsm.exe` manually. 
+
 RegAsm.exe "uses methods exposed by RegistrationServices"[^3]
 
 The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
