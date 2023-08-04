@@ -50,7 +50,6 @@ Visual Studio should have the following items installed
 * [Office/Sharepoint Development workload](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_OFFICE_DEVELOPMENT.png)
 * [Visual Studio Installer Projects 2022 Extension](/SCREENSHOTS/VISUAL_STUDIO_EXTENSIONS.png)
 
-
 </p>
 </details> 
 
@@ -64,8 +63,7 @@ The following utility is useful to inspect the Registration process, but is not 
 </p>
 </details> 
 
-<details><summary>32/64 Bit Office</summary>
-  
+<details><summary>32/64 Bit Office</summary>  
 <p>
 
 The Automation AddIn needs to be registered during the installation process. 
@@ -81,8 +79,10 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 </p>
 </details> 
 
-<details><summary>Automation Add-In - User Installation</summary>
-  
+<details><summary>Automation Add-In </summary>  
+<p>
+
+<details><summary>Automation Add-In - User Installation</summary>  
 <p>
 
 Visual Studio generates two output files, `setup.exe` and `AUTO_INSTALLER.msi`
@@ -132,6 +132,9 @@ as a category
 Users can uninstall the addin by Right-Clicking the Windows Start button and selecting [Apps and Features](/SCREENSHOTS/APPS_AND_FEATURES.png)
 
 Scroll down to *Automation FX* and select Uninstall
+
+</p>
+</details> 
 
 </p>
 </details> 
