@@ -65,7 +65,7 @@ The following utility is useful to inspect the Registration process, but is not 
 <details><summary>32/64 Bit Office</summary>  
 <p>
 
-The Automation Add-In needs to be registered during the installation process. 
+The Automation Add-In is registered during the installation process. 
   
 Different values need to be written to the Registry for 32-Bit and 64-Bit version of Office.
 
