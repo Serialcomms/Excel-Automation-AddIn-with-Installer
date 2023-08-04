@@ -159,7 +159,7 @@ Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1
 <details><summary>COM Configuration Options</summary>
 <p>
 
-#### COM Configuration Options 
+#### 1. COM Configuration Options 
 The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
 
 In module AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
@@ -170,7 +170,7 @@ Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** 
 
 ___
 
-#### Primary Output Properties
+#### 2. Primary Output Properties
 
 In module AUTO_INSTALLER > Primary Output Properties, property [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
 
