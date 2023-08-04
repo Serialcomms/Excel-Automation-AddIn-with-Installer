@@ -172,7 +172,7 @@ ___
 
 #### Primary Output Properties
 
-In module AUTO_INSTALLER > Primary Output Properties, property Register should be set to [vsdrpDoNotRegister](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png)
+In module AUTO_INSTALLER > Primary Output Properties, property [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
 
 </p>
 </details> 
