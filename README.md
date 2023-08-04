@@ -166,9 +166,11 @@ In module AUTO_FUNCTIONS > Properties, the options below should **not** be selec
 - [ ] `Register for COM Interop` in section Compile 
 - [ ] `Make assembly COM-Visible` in section Application > Assembly Information
 
-
-
 Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** be used in any module.
+
+#### Primary Output Properties
+
+In module AUTO_INSTALLER > Primary Output Properties, property Register should be set to vsdrpDoNotRegister
 
 </p>
 </details> 
