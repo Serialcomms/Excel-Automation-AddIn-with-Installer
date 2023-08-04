@@ -147,7 +147,7 @@ Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb
 This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` via [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_INSTALLERCLASS.png) in module AUTO_INSTALLER.
 
 
-Sub `Install` then calls `RegisterAssembly` which is functionally equivalent[^1] to running `RegAsm.exe` manually. 
+Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1] to running `RegAsm.exe` manually. 
 
 `RegAsm.exe` itself  _uses methods exposed by RegistrationServices_ [^3]
 
