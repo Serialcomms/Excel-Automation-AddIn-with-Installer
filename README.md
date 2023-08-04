@@ -49,15 +49,15 @@ Visual Studio should have the following items installed
 * Workload [Office/Sharepoint Development](/SCREENSHOTS/VISUAL_STUDIO_WORKLOAD_OFFICE_DEVELOPMENT.png)
 * Extension [Visual Studio Installer Projects 2022](/SCREENSHOTS/VISUAL_STUDIO_EXTENSIONS.png)
 
-</p>
-</details> 
-
 <details><summary>Optional Utilities</summary>
 <p>
 
 The following utility is useful to inspect the Registration process, but is not mandatory.
 
 - https://www.nirsoft.net/utils/registered_dll_view.html
+
+</p>
+</details> 
 
 </p>
 </details> 
