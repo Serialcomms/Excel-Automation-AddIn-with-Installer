@@ -140,17 +140,18 @@ Scroll down to *Automation FX* and select Uninstall
 <details><summary>Implementation Notes</summary>
 <p>
 
+#### Installer Class Module
 Class module `Installer.vb` performs the Assembly Registration and Registry updates required when the developer or end-user runs the installer .exe or .msi program. 
 
 Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb.net in file `Installer.Designer.vb` when a new Installer class module is added to a project.
 
 This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` via [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_INSTALLERCLASS.png) in module AUTO_INSTALLER.
 
-
 Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1] to running `RegAsm.exe` manually. 
 
 `RegAsm.exe` itself  _uses methods exposed by RegistrationServices_ [^3]
 
+#### COM Configuration Options 
 The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
 
 In module AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
