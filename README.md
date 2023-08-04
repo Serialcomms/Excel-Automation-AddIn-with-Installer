@@ -72,7 +72,7 @@ The Automation AddIn needs to be registered during the installation process.
   
 Different values need to be written to the Registry for 32-Bit and 64-Bit version of Office.
 
-The installer class provides these values, but needs to be [configured correctly](/SCREENSHOTS/Properties_Run64Bit.png) for the version required.
+The installer class provides these values, but needs to be [configured correctly](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) for the version required.
 
 Separate installers should be built for each version required. 
 
@@ -144,7 +144,8 @@ Class module `Installer.vb` performs the Assembly Registration and Registry upda
 
 Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb.net in file `Installer.Designer.vb` when a new Installer class module is added to a project.
 
-This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` via [Custom Action Properties](/SCREENSHOTS/Properties_Run64Bit.png) in module AUTO_INSTALLER.
+This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` via [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_INSTALLERCLASS
+.png) in module AUTO_INSTALLER.
 
 
 Sub `Install` then calls `RegisterAssembly` which is functionally equivalent[^1] to running `RegAsm.exe` manually. 
