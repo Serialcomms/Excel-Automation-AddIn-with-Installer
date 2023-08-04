@@ -146,7 +146,7 @@ Class module `Installer.vb` performs the Assembly Registration and Registry upda
 
 Tag `<System.ComponentModel.RunInstaller(True)>` is provided automatically by vb.net in file `Installer.Designer.vb` when a new Installer class module is added to a project.
 
-This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` via [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_INSTALLERCLASS.png) in module AUTO_INSTALLER.
+This tag is used by the installer program to call `Public Overrides Sub Install(stateSaver As IDictionary)` via [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_INSTALLERCLASS.png) in project AUTO_INSTALLER.
 
 Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1] to running `RegAsm.exe` manually. 
 
@@ -161,7 +161,7 @@ Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1
 #### 1. COM Configuration Options 
 The following points should always be observed to avoid performing any conflicting Registry updates during development and testing.
 
-In module AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
+In project AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
 - [ ] `Register for COM Interop` in section Compile 
 - [ ] `Make assembly COM-Visible` in section Application > Assembly Information
 
@@ -171,7 +171,7 @@ ___
 
 #### 2. Primary Output Properties
 
-In module AUTO_INSTALLER > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
+In project AUTO_INSTALLER > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
 
 </p>
 </details> 
