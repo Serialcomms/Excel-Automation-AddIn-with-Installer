@@ -69,7 +69,7 @@ The Automation AddIn needs to be registered during the installation process.
   
 Different values need to be written to the Registry for 32-Bit and 64-Bit version of Office.
 
-The installer class provides these values, but needs to be [configured correctly](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) for the version required.
+The installer class provides these values, [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) should be set for the version required.
 
 Separate installers should be built for each version required. 
 
