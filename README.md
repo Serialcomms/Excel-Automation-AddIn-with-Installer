@@ -8,9 +8,9 @@ Full Microsoft Visual Studio 2022 solution and project source code included in r
   
 Excel User-Defined Functions (UDFs) as developed in VB.Net have been around for many years, early examples of which include - 
 
- - http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
+* http://www.cpearson.com/Excel/CreatingNETFunctionLib.aspx
 
-- https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
+* https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
 
 Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or are permitted to run command-line utilities such as RegAsm.exe to complete the installation. 
 
@@ -22,12 +22,12 @@ Whilst these functions work well, the deployment of them can be more problematic
 
 The design goals for this project are therefore :-
 
-1.  Working Excel Automation Add-In with sample functions provided
-2.  Integrated 'Click-Through' Installer, more familiar to end-users
-3.  All development in VB.Net, using Microsoft Visual Studio 2022
-4.  No third-party libraries or utilities required
-5.  Coding style to support infrequent developers
-6.  Configurable for 32-Bit or 64-Bit Office - see later for details
+* Working Excel Automation Add-In with sample functions provided
+* Integrated 'Click-Through' Installer, more familiar to end-users
+* All development in VB.Net, using Microsoft Visual Studio 2022
+* No third-party libraries or utilities required
+* Coding style to support infrequent developers
+* Configurable for 32-Bit or 64-Bit Office - see later for details
 
 </p>
 </details> 
@@ -37,9 +37,9 @@ The design goals for this project are therefore :-
 
 A Windows PC with the following software installed is required to build the solution 
 
-- Microsoft Windows 10, 64-Bit with .Net
-- Microsoft Office/Excel 32-Bit or 64-Bit
-- Microsoft Visual Studio 2022 (any edition)
+* Microsoft Windows 10, 64-Bit with .Net
+* Microsoft Office/Excel 32-Bit or 64-Bit
+* Microsoft Visual Studio 2022 (any edition)
 
 A 'fresh build' of all the above components is recommended, on a dedicated development PC if possible, and with all updates applied.
 
@@ -54,7 +54,7 @@ Visual Studio should have the following items installed
 
 The following utility is useful to inspect the Registration process, but is not mandatory.
 
-- https://www.nirsoft.net/utils/registered_dll_view.html
+* https://www.nirsoft.net/utils/registered_dll_view.html
 
 </p>
 </details> 
