@@ -155,8 +155,8 @@ Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1
 The following points should therefore be observed to avoid performing any conflicting Registry updates during development and testing.
 
 In module AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
-1. `Register for COM Interop` in section Compile 
-2. `Make assembly COM-Visible` in section Application > Assembly Information
+- `Register for COM Interop` in section Compile 
+- `Make assembly COM-Visible` in section Application > Assembly Information
 
 Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** be used in any module.
 
