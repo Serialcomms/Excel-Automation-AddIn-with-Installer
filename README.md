@@ -158,7 +158,7 @@ Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1
 <details><summary>COM Configuration Properties</summary>
 <p>
 
-#### Project AUTO_FUNCTIONS - COM Properties
+#### Project AUTO_FUNCTIONS - Properties
 The following points should always be observed to avoid performing any conflicting Registry updates during development and testing.
 
 In project AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
