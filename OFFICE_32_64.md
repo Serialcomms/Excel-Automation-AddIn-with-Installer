@@ -13,7 +13,7 @@
   Rollback  > Primary Output > Properties > Run64Bit = False
   UnInstall > Primary Output > Properties > Run64Bit = False
 
-  Settings below are then configured automatically by the installer class
+  Settings are then configured automatically by the installer class
 
   Environment.SystemDirectory = C:\Windows\SysWow64 for 32-bit install
   Environment.SystemDirectory = C:\Windows\System32 for 64-bit install
