@@ -21,5 +21,5 @@
 
 ```
 
-<img src="/SCREENSHOTS/OFFICE_32_64.png" alt="Properties" title="Project Properties" width="50%" height="50%">  
+<img src="/SCREENSHOTS/CUSTOM_ACTIONS_AUTO_INSTALLER.png" alt="Properties" title="Project Properties" width="50%" height="50%">  
 
