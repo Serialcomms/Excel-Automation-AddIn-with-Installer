@@ -20,3 +20,6 @@
   Registry = HKEY_CLASSES_ROOT\CLSID\..             for 64-bit install
 
 ```
+
+<img src="/SCREENSHOTS/OFFICE_32_64.png" alt="Properties" title="Project Properties" width="50%" height="50%">  
+
