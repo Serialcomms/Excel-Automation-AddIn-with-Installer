@@ -4,8 +4,9 @@
   
   VSTO solution as published is configured for 64-bit Office registration
   
-  Change Property setting Run64Bit to False for 32-bit Office registration 
-  Right-hand click on each category to change properties as per screenshot below
+  Change Property setting Run64Bit to False for 32-bit Office registration
+
+  Right-hand click on each category to change property as per screenshot below
   
   Install   > Primary Output > Properties > Run64Bit = False
   Commit    > Primary Output > Properties > Run64Bit = False
