@@ -9,6 +9,7 @@ Public Class Installer
 
     Public ASSEMBLY_TYPE As Type
     Public ASSEMBLY_GUID As String
+    Public ASSEMBLY_FLAG As Integer
     Public ASSEMBLY_NAME As Assembly
     Public ASSEMBLY_KEYNAME As String
     Public ASSEMBLY_DISPLAY_NAME As String
@@ -25,6 +26,7 @@ Public Class Installer
         ASSEMBLY_TYPE = GetType(Functions)
         ASSEMBLY_GUID = Functions.ClassId.ToUpper
         ASSEMBLY_NAME = GetType(Functions).Assembly
+        ASSEMBLY_FLAG = AssemblyRegistrationFlags.SetCodeBase
         ASSEMBLY_KEYNAME = "CLSID\{" & ASSEMBLY_GUID & "}\"
         ASSEMBLY_DISPLAY_NAME = ASSEMBLY_NAME.FullName
         REGISTRATION_SERVICES = New RegistrationServices
@@ -67,7 +69,7 @@ Public Class Installer
 
         Try
 
-            REGISTRATION_SERVICES.RegisterAssembly(ASSEMBLY_NAME, AssemblyRegistrationFlags.SetCodeBase)
+            REGISTRATION_SERVICES.RegisterAssembly(ASSEMBLY_NAME, ASSEMBLY_FLAG)
 
         Catch ex As Exception
 
