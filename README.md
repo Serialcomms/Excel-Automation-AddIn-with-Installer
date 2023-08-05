@@ -37,7 +37,8 @@ The design goals for this project are therefore :-
 
 A Windows PC with the following software installed is required to build the solution 
 
-* Microsoft Windows 10, 64-Bit with .Net
+* Microsoft Windows 10, 64-Bit
+* Microsoft .Net Framework 4.7.2
 * Microsoft Office/Excel 32-Bit or 64-Bit
 * Microsoft Visual Studio 2022 (any edition)
 
