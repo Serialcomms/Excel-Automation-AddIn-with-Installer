@@ -6,7 +6,6 @@
   
   Change Property setting Run64Bit to False for 32-bit Office registration
   
-
   Install   > Primary Output > Properties > Run64Bit = False
   Commit    > Primary Output > Properties > Run64Bit = False
   Rollback  > Primary Output > Properties > Run64Bit = False
