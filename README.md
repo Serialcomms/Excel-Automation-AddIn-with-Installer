@@ -12,7 +12,7 @@ Excel User-Defined Functions (UDFs) as developed in VB.Net have been around for 
 
 * https://www.codeproject.com/Articles/7753/Create-an-Automation-Add-In-for-Excel-using-NET
 
-Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or are permitted to run command-line utilities such as RegAsm.exe to complete the installation. 
+Whilst these functions work well, the deployment of them can be more problematic, particularly where end users may not be familiar with, or are permitted to run command-line utilities such as [Regasm](https://learn.microsoft.com/en-us/dotnet/framework/tools/regasm-exe-assembly-registration-tool) to complete the installation. 
 
 </p>
 </details>  
