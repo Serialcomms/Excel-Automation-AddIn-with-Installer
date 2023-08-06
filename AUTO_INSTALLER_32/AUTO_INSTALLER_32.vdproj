@@ -137,7 +137,7 @@
             }
             "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_2BC7DCC63C6F4CEC922A47C21DD1F625"
             {
-            "Name" = "8:Primary output from AUTO_FUNCTIONS (Active) [32-Bit]x"
+            "Name" = "8:Primary output from AUTO_FUNCTIONS (Active) [32-Bit]"
             "Condition" = "8:"
             "Object" = "8:_B3EA9DE2198943ED8CE703679B8823C6"
             "FileType" = "3:1"
