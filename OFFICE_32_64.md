@@ -1,9 +1,9 @@
 
 ```
-  32/64 bit registration is driven by the Installer Project's Custom Actions
-  
-  VSTO solution as published is configured for 64-bit Office registration
-  
+  32/64 bit registration is driven by each Installer Project's Custom Actions
+
+  Separate projects are provided and configured for 32 and 64 bit builds.
+   
   Change Property setting Run64Bit to False for 32-bit Office registration
 
   Right-hand click on each category to change property as per screenshot below
