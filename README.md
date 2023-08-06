@@ -97,7 +97,7 @@ Either of these files can be distributed to, and run by end users, to install an
 
 After running the [installer](/SCREENSHOTS/USER_INSTALL_01.jpg), users need to configure Excel to enable the Automation Add-In.
 
-From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) > [Manage Excel Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_02.png) 
+From Excel 🠆 File 🠆 Options 🠆 [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) 🠆 [Manage Excel Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_02.png) 
 
 Click on Automation, scroll down and select [AUTOMATION.Functions](/SCREENSHOTS/EXCEL_ADDIN_03.png)
 
@@ -172,7 +172,7 @@ ___
 
 #### Projects AUTO_INSTALLER_32 and AUTO_INSTALLER_64 - Primary Output Properties
 
-In each project > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
+In each project 🠆 Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
 
 </p>
 </details> 
