@@ -85,7 +85,7 @@ Separate 32-Bit and 64-Bit Office installer projects are provided and should be 
 <details><summary>Automation Add-In - User Installation</summary>  
 <p>
 
-Visual Studio generates two output files, `setup.exe` and `AUTO_INSTALLER.msi` from each Installer project
+Visual Studio generates two output files, `setup.exe` and `AUTO_INSTALLER_nn.msi` from each Installer project
 
 Either of these files can be distributed to, and run by end users, to install and uninstall as required. 
 
