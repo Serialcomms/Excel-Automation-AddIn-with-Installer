@@ -319,7 +319,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Automation FX (32-Bit)"
         "ProductCode" = "8:{161F9C68-FDF3-424C-A6FE-45B1C25DDB33}"
-        "PackageCode" = "8:{EE182BA7-0E22-425C-AFC8-3AD2D451AEDF}"
+        "PackageCode" = "8:{FE0DB7D0-39B2-4937-B3BF-67FF4681463A}"
         "UpgradeCode" = "8:{1D100B9B-794F-4725-9687-01C008409802}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"

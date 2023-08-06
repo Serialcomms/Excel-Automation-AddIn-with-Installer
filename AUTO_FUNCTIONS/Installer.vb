@@ -136,7 +136,7 @@ Public Class Installer
 
     Public Sub INSTALL_ERROR(BOX_TITLE As String, MESSAGE As String, Optional EXTRA_TEXT As String = "")
 
-        Dim BOXTEXT As String = ""
+        Dim BOXTEXT As String = NEWLINE
 
         BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & NEWLINE
         BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & NEWLINE
