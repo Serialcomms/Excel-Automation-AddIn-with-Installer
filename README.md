@@ -168,9 +168,9 @@ Tags `<ComRegisterFunction>` and  `<ComUnRegisterFunction>` should also **not** 
 
 ___
 
-#### Projects AUTO_INSTALLER_nn - Primary Output Properties
+#### Projects AUTO_INSTALLER_32 and AUTO_INSTALLER_64 - Primary Output Properties
 
-In projects AUTO_INSTALLER_nn > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
+In each project > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
 
 </p>
 </details> 
