@@ -2,7 +2,7 @@
 ```
   32/64 bit registration is driven by each Installer Project's Custom Actions
 
-  Separate projects are provided and configured for 32 and 64 bit builds.
+  Separate projects are provided and configured for 32-bit and 64-bit builds.
    
   Change Property setting Run64Bit to False for 32-bit Office registration
 
