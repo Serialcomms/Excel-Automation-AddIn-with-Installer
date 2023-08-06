@@ -162,7 +162,7 @@ Sub `Install` then calls `RegisterAssembly` which is functionally equivalent [^1
 #### Project AUTO_FUNCTIONS - Properties
 The following points should always be observed to avoid performing any conflicting Registry updates during development and testing.
 
-In project AUTO_FUNCTIONS > Properties, the options below should **not** be selected at any time.
+In project AUTO_FUNCTIONS 🠆 Properties, the options below should **not** be selected at any time.
 - [ ] `Register for COM Interop` in section Compile 
 - [ ] `Make assembly COM-Visible` in section Application > Assembly Information
 
