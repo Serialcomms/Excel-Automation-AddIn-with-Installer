@@ -74,6 +74,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -98,6 +106,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -307,7 +323,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Automation FX (64-Bit)"
         "ProductCode" = "8:{4E2241C8-DB6C-4E89-B403-8953DE77F8CF}"
-        "PackageCode" = "8:{1B11FBAF-8FC4-4037-A125-EE23A84CCF7A}"
+        "PackageCode" = "8:{D1C04C67-1A8E-4F8E-8F05-481D047D2C9A}"
         "UpgradeCode" = "8:{E5AF5F78-D40F-45D0-AA5E-FBA9F6651C7F}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
