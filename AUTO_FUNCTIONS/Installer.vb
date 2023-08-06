@@ -134,7 +134,7 @@ Public Class Installer
 
     End Sub
 
-    Public Sub INSTALL_ERROR(BOX_TITLE As String, MESSAGE As String, Optional EXTRA_TEXT As String = NEWLINE)
+    Public Sub INSTALL_ERROR(BOX_TITLE As String, MESSAGE As String, Optional EXTRA_TEXT As String = "")
 
         Dim BOXTEXT As String = ""
 
