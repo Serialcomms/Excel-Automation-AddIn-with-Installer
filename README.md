@@ -42,7 +42,7 @@ A Windows PC with the following software installed is required to build the solu
 * Microsoft Windows 10, 64-Bit
 * Microsoft .Net Framework 4.7.2
 * Microsoft Office/Excel 32-Bit or 64-Bit
-* Microsoft Visual Studio 2022 (any edition)
+* Microsoft [Visual Studio 2022 (any edition)](https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements)
 
 A 'fresh build' of all the above components is recommended, on a dedicated development PC if possible, and with all updates applied.
 
