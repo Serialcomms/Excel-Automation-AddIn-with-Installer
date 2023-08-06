@@ -72,9 +72,7 @@ Different values need to be written to the [Registry](OFFICE_32_64.md) for 32-Bi
 
 The installer class provides these values, [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) should be set for the version required.
 
-Separate installers should be built for each version required. 
-
-A Universal 32/64 installer is not supported at this time, but could be developed.
+Separate 32/64 Bit installer projects are provided and should be built for each version required. 
 
 </p>
 </details> 
@@ -85,7 +83,7 @@ A Universal 32/64 installer is not supported at this time, but could be develope
 <details><summary>Automation Add-In - User Installation</summary>  
 <p>
 
-Visual Studio generates two output files, `setup.exe` and `AUTO_INSTALLER.msi`
+Visual Studio generates two output files, `setup.exe` and `AUTO_INSTALLER.msi` from each Installer project
 
 Either of these files can be distributed to, and run by end users, to install and uninstall as required. 
 
