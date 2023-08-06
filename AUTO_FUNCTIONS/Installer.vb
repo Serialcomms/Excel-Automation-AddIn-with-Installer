@@ -13,7 +13,9 @@ Public Class Installer
     Public ASSEMBLY_NAME As Assembly
     Public ASSEMBLY_KEYNAME As String
     Public ASSEMBLY_DISPLAY_NAME As String
+    Public Const NEWLINE As String = vbCrLf
     Public REGISTRATION_SERVICES As RegistrationServices
+
 
     Public Sub New()
 
@@ -74,8 +76,8 @@ Public Class Installer
         Catch ex As Exception
 
             Dim BOXTEXT As String = Nothing
-            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & vbCrLf
-            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & vbCrLf
+            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & NEWLINE
+            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & NEWLINE
             BOXTEXT &= "Message = " & ex.Message
 
             MsgBox(BOXTEXT, vbCritical + vbOKOnly, " Error Registering Assembly")
@@ -101,9 +103,9 @@ Public Class Installer
         Catch ex As Exception
 
             Dim BOXTEXT As String = Nothing
-            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & vbCrLf
-            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & vbCrLf
-            BOXTEXT &= "Registry Key = " & SetKey.ToString & vbCrLf
+            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & NEWLINE
+            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & NEWLINE
+            BOXTEXT &= "Registry Key = " & SetKey.ToString & NEWLINE
             BOXTEXT &= "Message = " & ex.Message
 
             MsgBox(BOXTEXT, vbCritical + vbOKOnly, " Error updating registry")
@@ -124,9 +126,9 @@ Public Class Installer
         Catch ex As Exception
 
             Dim BOXTEXT As String = Nothing
-            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & vbCrLf
-            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & vbCrLf
-            BOXTEXT &= "Registry SubKey = " & ASSEMBLY_KEYNAME & "Programmable" & vbCrLf
+            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & NEWLINE
+            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & NEWLINE
+            BOXTEXT &= "Registry SubKey = " & ASSEMBLY_KEYNAME & "Programmable" & NEWLINE
             BOXTEXT &= "Message = " & ex.Message
 
             MsgBox(BOXTEXT, vbCritical + vbOKOnly, " Error deleting subkey")
@@ -144,8 +146,8 @@ Public Class Installer
         Catch ex As Exception
 
             Dim BOXTEXT As String = Nothing
-            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & vbCrLf
-            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & vbCrLf
+            BOXTEXT &= "Assembly Name = " & ASSEMBLY_DISPLAY_NAME & NEWLINE
+            BOXTEXT &= "Assembly GUID = " & ASSEMBLY_GUID & NEWLINE
             BOXTEXT &= "Message = " & ex.Message
 
             MsgBox(BOXTEXT, vbCritical + vbOKOnly, " Error UnRegistering Assembly")
