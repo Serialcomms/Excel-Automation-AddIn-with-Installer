@@ -42,6 +42,10 @@ __ This is the preferred approach and should result in a 'cleaner' build with le
 
 See [^1] for further information on Solutions and Projects.
 
+
+</p>
+</details> 
+
 <details><summary>Create New Visual Studio .Net Project</summary>
 <p>
 
@@ -67,8 +71,6 @@ In Solution Explorer, Right-Hand Click
 
 
 
-</p>
-</details> 
 
 
 [^1]:https://learn.microsoft.com/en-us/visualstudio/get-started/tutorial-projects-solutions?view=vs-2022
