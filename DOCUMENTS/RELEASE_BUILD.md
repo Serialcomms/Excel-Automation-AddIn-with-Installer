@@ -8,16 +8,29 @@ Various changes are required to ensure it is suitable for distribution to end-us
 
 ## Production Build
 
-
 Two approaches are available to prepare a production build
 
-1. Edit the existing Visual Studio Solution
+<details><summary>Edit the existing Visual Studio Solution</summary>
+<p>
 
-Change all GUIDs in all files to newly-created values.
+The design goals for this project are therefore :-
 
-2. Create a new Visual Studio Solution.
+* Change all GUIDs in all files to newly-created values.
+
+</p>
+</details> 
+
+<details><summary>Create a new Visual Studio Solution</summary>
+<p>
 
 This is the preferred approach.
 
-
 https://learn.microsoft.com/en-us/visualstudio/get-started/tutorial-projects-solutions?view=vs-2022
+
+
+</p>
+</details> 
+
+
+
+
