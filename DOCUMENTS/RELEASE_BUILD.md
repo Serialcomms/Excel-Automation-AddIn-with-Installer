@@ -15,11 +15,11 @@ Two approaches are available to prepare a production build, in addition to chang
 
 * Search *ALL* solution and project file for GUIDs
 
-* Change all GUIDs to newly-created values - (Tools - Create GUID)
+* Change all GUIDs to newly-created values - (Tools > Create GUID)
 
 * Check / Update `<ProgId("AUTOMATION.Functions")>` in Functions.vb
 
-* Check / Update project AUTO_INSTALLER_nn properties - Press F4 to view
+* Check / Update project `AUTO_INSTALLER_nn` properties - Press F4 to view
 
 * Rebuild Solution and test fully before distribution
 
@@ -49,6 +49,7 @@ See [^1] for further information on Solutions and Projects.
 <p>
 
 * Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png) Project and save with a name of your choice.
+* Add a new 
 
 </p>
 </details> 
