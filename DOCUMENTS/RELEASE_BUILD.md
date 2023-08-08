@@ -49,7 +49,8 @@ _This is the preferred approach and should result in a 'cleaner' build with less
 
 * Add a second new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 64-Bit Install.
 
-
+</p>
+</details> 
 
 
 See [^1] for further information on Solutions and Projects.
