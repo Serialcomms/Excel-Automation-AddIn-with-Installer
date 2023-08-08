@@ -35,7 +35,7 @@ Start Visual Studio and select `Create a New Project`.
 
 Select [`Blank Solution`](/SCREENSHOTS/VISUAL_STUDIO_NEW_BLANK_SOLUTION.png) as the Project Template.
 
-Add a new [Class Library .NET Framework)[/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png)
+Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png)
 
 
 See [^1] for further information on Solutions and Projects.
