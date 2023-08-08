@@ -26,10 +26,13 @@ Two approaches are available to prepare a production build, in addition to chang
 </p>
 </details> 
 
-<details><summary>2. Create new Visual Studio Solution</summary>
+<details><summary>2. Create new Visual Studio Solution & Projects</summary>
 <p>
 
 _This is the preferred approach and should result in a 'cleaner' build with less errors. _
+
+<details><summary>Create New Visual Studio Solution</summary>
+<p>
 
 * Start Visual Studio and select `Create a New Project`.
 
@@ -38,6 +41,9 @@ _This is the preferred approach and should result in a 'cleaner' build with less
 * In Solution Explorer, Right-Hand Click the above and select Add > New Project
 
 * Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png) Project and save with a name of your choice.
+
+</p>
+</details> 
 
 * Add a new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 32-Bit Install.
 
