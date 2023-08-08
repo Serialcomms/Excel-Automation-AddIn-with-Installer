@@ -35,6 +35,8 @@ _This is the preferred approach and should result in a 'cleaner' build with less
 
 * Select [`Blank Solution`](/SCREENSHOTS/VISUAL_STUDIO_NEW_BLANK_SOLUTION.png) as the Project Template and save with a name of your choice.
 
+* In Solution Explorer, Right-Hand Click the above and select Add > New Project
+
 * Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png) Project and save with a name of your choice.
 
 * Add a new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 32-Bit Install.
