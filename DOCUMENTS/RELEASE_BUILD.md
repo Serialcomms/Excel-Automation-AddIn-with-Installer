@@ -8,7 +8,7 @@ Various changes are required to ensure it is suitable for distribution to end-us
 
 ## Production Build
 
-Two approaches are available to prepare a production build
+Two approaches are available to prepare a production build, in addition to changing the User-Defined Functions.
 
 <details><summary>Edit the existing Visual Studio Solution</summary>
 <p>
