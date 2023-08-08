@@ -13,9 +13,9 @@ Two approaches are available to prepare a production build
 <details><summary>Edit the existing Visual Studio Solution</summary>
 <p>
 
-The design goals for this project are therefore :-
+* Search *ALL* solution and project file for GUIDs
 
-* Change all GUIDs in all files to newly-created values.
+* Change all GUIDs to newly-created values.
 
 </p>
 </details> 
