@@ -48,6 +48,11 @@ _This is the preferred approach and should result in a 'cleaner' build with less
 </p>
 </details> 
 
+<details><summary>Create New Visual Studio Installer Projects</summary>
+<p>
+
+In Solution Explorer, Right-Hand Click
+
 * Add a new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 32-Bit Install.
 
 * Add a second new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 64-Bit Install.
@@ -55,6 +60,8 @@ _This is the preferred approach and should result in a 'cleaner' build with less
 </p>
 </details> 
 
+</p>
+</details> 
 
 See [^1] for further information on Solutions and Projects.
 
