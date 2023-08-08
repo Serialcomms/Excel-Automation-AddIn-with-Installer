@@ -15,7 +15,7 @@ Two approaches are available to prepare a production build, in addition to chang
 
 * Search *ALL* solution and project file for GUIDs
 
-* Change all GUIDs to newly-created values.
+* Change all GUIDs to newly-created values - (Tools - Create GUID)
 
 * Check / Update `<ProgId("AUTOMATION.Functions")>` in Functions.vb
 
