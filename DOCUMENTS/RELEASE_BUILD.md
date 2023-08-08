@@ -19,6 +19,10 @@ Two approaches are available to prepare a production build, in addition to chang
 
 * Check / Update `<ProgId("AUTOMATION.Functions")>` in Functions.vb
 
+* Check / Update project AUTO_INSTALLER_nn properties - Press F4 to view
+
+* Rebuild Solution and test fully before distribution
+
 </p>
 </details> 
 
