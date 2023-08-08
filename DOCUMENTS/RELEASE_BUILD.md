@@ -10,17 +10,19 @@ Various changes are required to ensure it is suitable for distribution to end-us
 
 Two approaches are available to prepare a production build, in addition to changing the User-Defined Functions.
 
-<details><summary>Edit existing Visual Studio Solution</summary>
+<details><summary>1. Edit existing Visual Studio Solution</summary>
 <p>
 
 * Search *ALL* solution and project file for GUIDs
 
 * Change all GUIDs to newly-created values.
 
+* Check / Update `<ProgId("AUTOMATION.Functions")>` in Functions.vb
+
 </p>
 </details> 
 
-<details><summary>Create new Visual Studio Solution</summary>
+<details><summary>2. Create new Visual Studio Solution</summary>
 <p>
 
 This is the preferred approach.
