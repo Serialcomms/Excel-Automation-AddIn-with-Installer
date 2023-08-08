@@ -29,7 +29,9 @@ Two approaches are available to prepare a production build, in addition to chang
 <details><summary>2. Create new Visual Studio Solution & Projects</summary>
 <p>
 
-__ This is the preferred approach and should result in a 'cleaner' build with less errors. __
+_This is the preferred approach and should result in a 'cleaner' build with less errors._
+
+See [^1] for further information on Solutions and Projects.
 
 <details><summary>Create New Visual Studio Solution</summary>
 <p>
@@ -39,9 +41,6 @@ __ This is the preferred approach and should result in a 'cleaner' build with le
 * Select [`Blank Solution`](/SCREENSHOTS/VISUAL_STUDIO_NEW_BLANK_SOLUTION.png) as the Project Template and save with a name of your choice.
 
 * In Solution Explorer, Right-Hand Click the above and select Add > New Project
-
-See [^1] for further information on Solutions and Projects.
-
 
 </p>
 </details> 
