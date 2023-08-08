@@ -70,7 +70,7 @@ The following utility is useful to inspect the Registration process, but is not 
 
 The Automation Add-In is registered during the installation process.
 
-Different values need to be written to the [Registry](OFFICE_32_64.md) for 32-Bit and 64-Bit versions of Office.
+Different values need to be written to the [Registry](/DOCUMENTS/OFFICE_32_64.md) for 32-Bit and 64-Bit versions of Office.
 
 The installer class provides these values, [Custom Action Properties](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) is set for the version required in each installer project.
 
