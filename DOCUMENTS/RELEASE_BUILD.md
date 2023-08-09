@@ -6,7 +6,7 @@ It is _not_ intended for production use, particularly where GUIDs as concerned.
 
 Various changes are required to ensure it is suitable for distribution to end-users as a production build.
 
-An 'Intermediate' level of using Visual Studio is suggested to ensure a functional deliverable.
+*An 'Intermediate' level of experience in using Visual Studio is suggested to ensure a functional deliverable.*
 
 ## Production Build
 
