@@ -52,6 +52,10 @@ See [^1] for further information on Solutions and Projects.
 
 * Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png) Project and save with a name of your choice.
 * In Solution Explorer, expand References and add [5 new entries as shown](/SCREENSHOTS/VISUAL_STUDIO_REFERENCES.png)
+* Right-Hand click the new solution and select View Properties > Application.
+* Check that `ASSEMBLY_NAME` and `ROOT NAMESPACE` are correct for your usage.
+* Check that `[] Make Assembly COM Visible` is not selected in Application > Assembly Information
+* Check that `[] Register for COM interop` is not selected in Compile
 
 <details><summary>Add new COM Class</summary>
 <p>
