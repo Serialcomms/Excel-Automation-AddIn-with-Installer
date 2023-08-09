@@ -60,14 +60,21 @@ See [^1] for further information on Solutions and Projects.
   
   Edit this file to add your User Defined Functions and change the general structure to resemble the demonstrator.
   
-  </p>
+</p>
 </details> 
+
+<details><summary>Add new Class</summary>
+<p>
 
 * Add a new [Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_DEFINITION.png) and save with suggested name `Interop.vb`
 
 Replace the entire contents of this file with the demonstrator version. 
 
 Ensure that `Partial Public Class Functions` matches the Class Name of your main Functions class.
+
+</p>
+</details> 
+
 
 * Add a new [Installer Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_INSTALLER_CLASS.png) and save with suggested name `Installer.vb`
 
