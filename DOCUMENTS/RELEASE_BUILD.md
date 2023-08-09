@@ -70,7 +70,7 @@ See [^1] for further information on Solutions and Projects.
   
   The new COM Class file will have new GUIDs created automatically which are valid for production use.
   
-  Edit this file to add your User Defined Functions and change the general structure to resemble the demonstrator.
+  Edit this file to add your User Defined Functions and change the general structure of it to resemble the demonstrator.
   
 </p>
 </details> 
