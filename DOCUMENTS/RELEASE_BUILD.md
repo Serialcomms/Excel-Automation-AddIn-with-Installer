@@ -50,11 +50,18 @@ See [^1] for further information on Solutions and Projects.
 
 * Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png) Project and save with a name of your choice.
 * In Solution Explorer, expand References and add [5 new entries as shown](/SCREENSHOTS/VISUAL_STUDIO_REFERENCES.png)
+
+<details><summary>Add new COM Class</summary>
+<p>
+  
 * Add a new [COM Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_COM_CLASS.png) vb file and save with suggested name `Functions.vb`
   
   The new COM Class file will have new GUIDs created automatically which are valid for production use.
   
   Edit this file to add your User Defined Functions and change the general structure to resemble the demonstrator.
+  
+  </p>
+</details> 
 
 * Add a new [Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_DEFINITION.png) and save with suggested name `Interop.vb`
 
