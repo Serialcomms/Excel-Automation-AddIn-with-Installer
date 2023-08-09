@@ -56,7 +56,7 @@ See [^1] for further information on Solutions and Projects.
 <details><summary>Add new COM Class</summary>
 <p>
   
-* Add a new [COM Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_COM_CLASS.png) vb file and save with suggested name `Functions.vb`
+* Add a new [COM Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_COM_CLASS.png) vb file to the Project and save with suggested name `Functions.vb`
   
   The new COM Class file will have new GUIDs created automatically which are valid for production use.
   
