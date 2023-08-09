@@ -49,7 +49,7 @@ See [^1] for further information on Solutions and Projects.
 <p>
 
 * Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png) Project and save with a name of your choice.
-* Add a new 
+* Add a new [COM Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_COM_CLASS.png) and save with suggested name `Functions.vb`.
 
 </p>
 </details> 
