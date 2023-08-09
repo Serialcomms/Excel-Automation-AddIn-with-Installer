@@ -53,6 +53,8 @@ See [^1] for further information on Solutions and Projects.
 * Add a new [COM Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_COM_CLASS.png) vb file and save with suggested name `Functions.vb`
   
   The new COM Class file will have new GUIDs created automatically which are valid for production use.
+  
+  Edit this file to add your User Defined Functions and change the general structure to resemble the demonstrator.
 
 * Add a new [Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_DEFINITION.png)  and save with suggested name `Interop.vb`  
 
