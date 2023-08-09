@@ -63,7 +63,10 @@ Replace the entire contents of this file with the demonstrator version.
 Ensure that `Partial Public Class Functions` matches the Class Name of your main Functions class.
 
 * Add a new [Installer Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_INSTALLER_CLASS.png) and save with suggested name `Installer.vb`
-*   
+
+Replace the entire contents of this file with the demonstrator version.
+
+Ensure that references to `Functions` in `Sub New()` match the Class Name of your main Functions class.
 
 </p>
 </details> 
