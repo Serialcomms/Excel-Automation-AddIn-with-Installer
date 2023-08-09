@@ -2,7 +2,7 @@
 
 The repository is intended as a demonstration / proof-of-concept build only.
 
-It is _not_ intended for production use, particularly as new GUIDs as required.
+It is _not_ intended for production use, specifically as new GUIDs as required.
 
 Various changes are required to ensure it is suitable for distribution to end-users as a production build.
 
