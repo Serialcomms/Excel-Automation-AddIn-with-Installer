@@ -47,7 +47,7 @@ See [^1] for further information on Solutions and Projects.
 </p>
 </details> 
 
-<details><summary>Create New Visual Studio .Net Project</summary>
+<details><summary>Add New Visual Studio .Net Project</summary>
 <p>
 
 * Add a new [Class Library .NET Framework](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_LIBRARY.png) Project and save with a name of your choice.
