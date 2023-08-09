@@ -68,7 +68,7 @@ See [^1] for further information on Solutions and Projects.
 
 * Add a new [Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_DEFINITION.png) and save with suggested name `Interop.vb`
 
-Replace the entire contents of this file with the demonstrator version. 
+Replace the entire contents of the new file with the demonstrator version. 
 
 Ensure that `Partial Public Class Functions` matches the Class Name of your main Functions class.
 
@@ -80,7 +80,7 @@ Ensure that `Partial Public Class Functions` matches the Class Name of your main
   
 * Add a new [Installer Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_INSTALLER_CLASS.png) and save with suggested name `Installer.vb`
 
-Replace the entire contents of this file with the demonstrator version.
+Replace the entire contents of the new file with the demonstrator version.
 
 Ensure that references to `Functions` in `Sub New()` match the Class Name of your main Functions class.
 
