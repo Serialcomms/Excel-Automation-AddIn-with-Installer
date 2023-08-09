@@ -54,6 +54,9 @@ See [^1] for further information on Solutions and Projects.
   
   The new COM Class file will have new GUIDs created automatically which are valid for production use.
 
+* Add a new [Installer Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_INSTALLER_CLASS.png) and save with suggested name `Installer.vb`
+*   
+
 </p>
 </details> 
 
