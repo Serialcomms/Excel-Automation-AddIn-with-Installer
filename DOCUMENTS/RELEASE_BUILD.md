@@ -8,7 +8,7 @@ A new Production Build should be developed and tested before deployment.
 
 Outline instructions to prepare a new Production solution build are shown below.
 
-*An 'Intermediate' level of experience in using Visual Studio is suggested to ensure a functional deliverable.*
+*An 'Intermediate' level of experience in using Visual Studio is recommended.*
 
 ## Production Build
 
