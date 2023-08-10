@@ -60,7 +60,7 @@ See [^1] for further information on Solutions and Projects.
 <details><summary>Add new Empty Class</summary>
 <p>
 
-* Add a new [Empty Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_DEFINITION.png) definition file and save with suggested name `Interop.vb`
+* Add a new [Empty Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_CLASS_DEFINITION.png) vb file and save with suggested name `Interop.vb`
 
 Replace the entire contents of the new file with the demonstrator version. 
 
