@@ -84,7 +84,7 @@ Build the project and check that it completes successfully before continuing.
 </p>
 </details> 
 
-<details><summary>Create New Visual Studio Setup Projects</summary>
+<details><summary>Create new Visual Studio Setup Projects</summary>
 <p>
 
 <details><summary>Add Setup Projects</summary>
