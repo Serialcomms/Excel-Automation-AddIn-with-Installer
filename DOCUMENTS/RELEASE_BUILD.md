@@ -27,7 +27,7 @@ See [^1] for further information on Solutions and Projects.
 </p>
 </details> 
 
-<details><summary>Add New Visual Studio .Net Project</summary>
+<details><summary>Add new Visual Studio .Net Project</summary>
 <p>
 
 <details><summary>Add new Project</summary>
