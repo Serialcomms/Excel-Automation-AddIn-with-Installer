@@ -72,7 +72,7 @@ Ensure that `Partial Public Class Functions` matches the Class Name of your main
 <details><summary>Add new Installer Class</summary>
 <p>
   
-* Add a new [Installer Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_INSTALLER_CLASS.png) and save with suggested name `Installer.vb`
+* Add a new [Installer Class](/SCREENSHOTS/VISUAL_STUDIO_NEW_INSTALLER_CLASS.png) vb file and save with suggested name `Installer.vb`
 
 Replace the entire contents of the new file with the demonstrator version.
 
