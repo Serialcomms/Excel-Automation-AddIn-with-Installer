@@ -105,6 +105,9 @@ Ensure that references to `Functions` in `Sub New()` match the Class Name of you
 <details><summary>Create New Visual Studio Installer Projects</summary>
 <p>
 
+<details><summary>Add Setup Projects</summary>
+<p>
+
 In Solution Explorer, Right-Hand Click
 
 * Add a new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 32-Bit Install.
@@ -117,7 +120,8 @@ In Solution Explorer, Right-Hand Click
 </p>
 </details> 
 
-
+</p>
+</details> 
 
 
 
