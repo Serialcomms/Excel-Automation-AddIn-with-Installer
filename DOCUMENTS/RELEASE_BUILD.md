@@ -125,10 +125,13 @@ In Solution Explorer, right-hand click the main Solution and
 In Solution Explorer, right-hand click the first Setup Project and 
 
 1. Select Add > Project Output and add the Primary Output
+2. Select [View > Custom Actions](/SCREENSHOTS/CUSTOM_ACTIONS_VIEW.png) and add the Primary Output to each of the [four categories shown](/SCREENSHOTS/CUSTOM_ACTIONS_AUTO_INSTALLER.png)
 
-2 Select [View > Custom Actions](/SCREENSHOTS/CUSTOM_ACTIONS_VIEW.png) and add the Primary Output to each of the [four categories shown](/SCREENSHOTS/CUSTOM_ACTIONS_AUTO_INSTALLER.png)
+Right-hand click the Primary Output in each of the four categories and 
 
-For each of the 
+1. Rename the Primary Output (optional)
+2. Check that Property InstallerClass = True
+3. Set Property [Run64Bit to True](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) for 64-Bit Office and False for 32-Bit Office.
 
 
 * Add a new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 32-Bit Install.
