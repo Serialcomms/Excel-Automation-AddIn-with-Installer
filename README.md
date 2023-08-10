@@ -174,6 +174,14 @@ ___
 
 In each project > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **vsdrpDoNotRegister**
 
+<details><summary>Production Build</summary>
+<p>
+
+[Production Build Instructions](/DOCUMENTS/RELEASE_BUILD.md)
+
+</p>
+</details> 
+
 </p>
 </details> 
 
