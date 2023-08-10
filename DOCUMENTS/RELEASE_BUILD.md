@@ -2,36 +2,16 @@
 
 The repository is intended as a demonstration / proof-of-concept build only.
 
-It is _not_ intended for production use, specifically as new GUIDs as required.
+It is _not_ intended for production use. Changing GUIDs may not result in a reliable installers.
 
-Various changes are required to ensure it is suitable for distribution to end-users as a production build.
+A new 'clean-build' solution should be developed to ensure that the outputs are suitable for distribution to end-users as a production build.
 
 *An 'Intermediate' level of experience in using Visual Studio is suggested to ensure a functional deliverable.*
 
 ## Production Build
 
-Two approaches are available to prepare a production build, in addition to changing the User-Defined Functions.
-
-<details><summary>1. Edit existing Visual Studio Solution</summary>
+<details><summary>Create new Visual Studio Solution & Projects</summary>
 <p>
-
-* Search *ALL* solution and project file for GUIDs
-
-* Change all GUIDs to newly-created values - (Tools > Create GUID)
-
-* Check / Update `<ProgId("AUTOMATION.Functions")>` in Functions.vb
-
-* Check / Update project `AUTO_INSTALLER_nn` properties - Press F4 to view
-
-* Rebuild Solution and test fully before distribution to end-users.
-
-</p>
-</details> 
-
-<details><summary>2. Create new Visual Studio Solution & Projects</summary>
-<p>
-
-_This is the preferred approach and should result in a 'cleaner' build with less errors._
 
 See [^1] for further information on Solutions and Projects.
 
@@ -134,14 +114,10 @@ Right-hand click the Primary Output in each of the four categories and
 2. Check that Property InstallerClass = True
 3. Set Property [Run64Bit to True](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) for 64-Bit Office and False for 32-Bit Office.
 
-
-* Add a new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 32-Bit Install.
-* 
+Note that the same Primary Output .dll file is used for both 32-bit and 64-bit installers. 
 
 </p>
 </details> 
-
-
 
 </p>
 </details> 
