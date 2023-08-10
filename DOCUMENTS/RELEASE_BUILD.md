@@ -126,6 +126,7 @@ In Solution Explorer, right-hand click the first Setup Project and
 
 1. Select Add > Project Output and add the Primary Output
 2. Select [View > Custom Actions](/SCREENSHOTS/CUSTOM_ACTIONS_VIEW.png) and add the Primary Output to each of the [four categories shown](/SCREENSHOTS/CUSTOM_ACTIONS_AUTO_INSTALLER.png)
+3. Press the F4 key and set Company Name etc. to values of your choice. 
 
 Right-hand click the Primary Output in each of the four categories and 
 
