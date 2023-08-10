@@ -114,7 +114,7 @@ In Solution Explorer, right-hand click each Setup Project and
 Right-hand click the Primary Output in each of the four categories and 
 
 1. Rename the Primary Output (optional)
-2. Check that `Property InstallerClass = True`
+2. Check that Property `InstallerClass = True`
 3. Set Property [Run64Bit to True](/SCREENSHOTS/CUSTOM_ACTIONS_RUN64BIT.png) for 64-Bit Office and False for 32-Bit Office.
 
 Note that the same Primary Output .dll file is used for both 32-bit and 64-bit installers. 
