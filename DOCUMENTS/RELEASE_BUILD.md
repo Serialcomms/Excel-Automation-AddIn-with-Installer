@@ -1,8 +1,8 @@
 ## Demonstration Build
 
-The repository is intended as a demonstration / proof-of-concept build only.
+This repository is intended as a demonstration / proof-of-concept build only.
 
-It is _not_ intended for production use and distribution to end-users.
+It is _not_ intended for production use or distribution to end-users.
 
 A new Production Build should be developed and tested before deployment.
 
