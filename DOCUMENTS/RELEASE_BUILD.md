@@ -6,6 +6,8 @@ It is _not_ intended for production use and distribution to end-users.
 
 A new Production Build should be developed and tested before deployment.
 
+Outline instructions to prepare a new solution build are shown below.
+
 *An 'Intermediate' level of experience in using Visual Studio is suggested to ensure a functional deliverable.*
 
 ## Production Build
