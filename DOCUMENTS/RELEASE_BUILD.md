@@ -96,13 +96,15 @@ Replace the entire contents of the new file with the demonstrator version.
 
 Ensure that references to `Functions` in `Sub New()` match the Class Name of your main Functions class.
 
-</p>
-</details> 
+Build the project and check that it completes successfully before continuing. 
 
 </p>
 </details> 
 
-<details><summary>Create New Visual Studio Installer Projects</summary>
+</p>
+</details> 
+
+<details><summary>Create New Visual Studio Setup Projects</summary>
 <p>
 
 <details><summary>Add Setup Projects</summary>
@@ -116,6 +118,22 @@ In Solution Explorer, right-hand click the main Solution and
 
 </p>
 </details> 
+
+<details><summary>Configure Setup Projects</summary>
+<p>
+
+In Solution Explorer, right-hand click the first Setup Project and select View > Custom Actions
+
+For each of the 
+
+
+* Add a new [Setup Project](/SCREENSHOTS/VISUAL_STUDIO_NEW_SETUP_PROJECT.png) Project and save with a name of your choice for 32-Bit Install.
+* 
+
+</p>
+</details> 
+
+
 
 </p>
 </details> 
