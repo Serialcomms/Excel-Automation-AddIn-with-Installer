@@ -180,6 +180,8 @@ In each project > Primary Output Properties, [Register](/SCREENSHOTS/PRIMARY_OUT
 <details><summary>Production Build</summary>
 <p>
 
+A new Production Build should be produced to ensure that all GUIDs are unique and all Visual Studio updates and dependencies are incorporated.
+
 [Production Build Instructions](/DOCUMENTS/RELEASE_BUILD.md)
 
 </p>
