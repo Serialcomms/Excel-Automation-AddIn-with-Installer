@@ -2,9 +2,9 @@
 
 The repository is intended as a demonstration / proof-of-concept build only.
 
-It is _not_ intended for production use. Changing GUIDs may not result in a reliable installers.
+It is _not_ intended for production use and distribution to end-users.
 
-A new 'clean-build' solution should be developed to ensure that the outputs are suitable for distribution to end-users as a production build.
+A new Production Build solution should be developed and tested before deployment.
 
 *An 'Intermediate' level of experience in using Visual Studio is suggested to ensure a functional deliverable.*
 
