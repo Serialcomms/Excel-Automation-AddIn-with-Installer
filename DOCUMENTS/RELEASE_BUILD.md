@@ -15,7 +15,7 @@ A new Production Build should be developed and tested before deployment.
 
 See [^1] for further information on Solutions and Projects.
 
-<details><summary>Create New Visual Studio Solution</summary>
+<details><summary>Create new Visual Studio Solution</summary>
 <p>
 
 * Start Visual Studio and select `Create a New Project`.
