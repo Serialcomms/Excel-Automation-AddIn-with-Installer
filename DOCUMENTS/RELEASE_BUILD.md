@@ -39,8 +39,9 @@ See [^1] for further information on Solutions and Projects.
 * In Solution Explorer, expand References and add [5 new entries as shown](/SCREENSHOTS/VISUAL_STUDIO_REFERENCES.png)
 * Right-Hand click the new solution and select View Properties > Application.
 * Check that `Assembly name` and `Root namespace` are correct for your usage.
-* Check that option [ ] `Make Assembly COM Visible` is **not** selected in Application > Assembly Information
-* Check that option [ ]  `Register for COM interop` is **not** selected in Compile
+* Check that the options below are **not** selected.
+- [ ] `Register for COM Interop` in section Compile 
+- [ ] `Make assembly COM-Visible` in section Application > Assembly Information
 
 </p>
 </details> 
