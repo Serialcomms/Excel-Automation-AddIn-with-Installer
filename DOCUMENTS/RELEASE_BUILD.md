@@ -121,12 +121,15 @@ Right-hand click the Primary Output in each of the four categories and
 
 Note that the same Primary Output .dll file is used for both 32-bit and 64-bit installers. 
 
-<details><summary>Build Setup Projects</summary>
-<p>
-Right-hand click on each Setup project, select `Build` and check that an error-free build is produced. 
-  
 </p>
 </details> 
+
+<details><summary>Build Setup Projects</summary>
+<p>
+* Right-hand click on each Setup project, select `Build` and check that an error-free build is produced. 
+* 
+  
+
 
 </p>
 </details> 
