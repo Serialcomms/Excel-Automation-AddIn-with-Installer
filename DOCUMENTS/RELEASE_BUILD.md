@@ -42,7 +42,7 @@ See [^1] for further information on Solutions and Projects.
 * Check that the options below are **not** selected.
 - [ ] `Make assembly COM-Visible` in section Application > Assembly Information
 - [ ] `Register for COM Interop` in section Compile (scroll down to view)
-- [ ] 
+
 </p>
 </details> 
 
