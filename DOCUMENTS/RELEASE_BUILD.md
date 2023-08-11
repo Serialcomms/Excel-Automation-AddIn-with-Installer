@@ -4,7 +4,7 @@ This repository is intended as a demonstration / proof-of-concept build only.
 
 It is _not_ intended for production use or distribution to end-users without fully rebuilding first.
 
-A new Production Build should be developed and fully tested before deployment to your end users.
+A new Production Build should be developed and tested before deployment to your end users.
 
 Outline instructions to prepare a new Production solution build are shown below.
 
