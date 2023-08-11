@@ -128,12 +128,16 @@ Note that the same Primary Output .dll file is used for both 32-bit and 64-bit i
 <p>
   
 * Right-hand click on each Setup project, select `Build` and check that an error-free build is produced.
+
+* Note the directory path and filenames used for the .msi and .exe installation files created.
   
 * Test the build by selecting `Install` and complete the installation for your Office version (32/64 Bit)
   
-* Enable the [Add-In from Excel](/SCREENSHOTS/EXCEL_ADDIN_02.png) and test your functions.
+* [Enable the](/SCREENSHOTS/EXCEL_ADDIN_02.png) [Add-In from Excel](/SCREENSHOTS/EXCEL_ADDIN_03.png) and test your functions.
   
-* 
+* Right-hand click on the Setup project, select `Uninstall` and check that it completes without error.
+
+The installation files can be re-tested and distributed to end users.
 
 
   
