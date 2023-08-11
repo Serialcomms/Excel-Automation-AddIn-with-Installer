@@ -20,7 +20,7 @@ See [^1] for further information on Solutions and Projects.
 <details><summary>Create new Visual Studio Solution</summary>
 <p>
 
-* Start Visual Studio and select `Create a New Project`.
+* Start Visual Studio and select `Create a New Project`
 
 * Select [`Blank Solution`](/SCREENSHOTS/VISUAL_STUDIO_NEW_BLANK_SOLUTION.png) as the Project Template and save with a name of your choice.
 
