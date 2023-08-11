@@ -2,7 +2,7 @@
 
 This repository is intended as a demonstration / proof-of-concept build only.
 
-It is _not_ intended for production use or distribution to end-users without redevelopment.
+It is _not_ intended for production use or distribution to end-users without rebuilding.
 
 A new Production Build should be developed and tested before deployment.
 
