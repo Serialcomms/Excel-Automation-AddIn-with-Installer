@@ -109,7 +109,8 @@ In Solution Explorer, right-hand click each Setup Project and
 1. Select [Add > Project Output](/SCREENSHOTS/VISUAL_STUDIO_ADD_PRIMARY_OUTPUT.png) and add the Primary Output
 2. Right-hand click the newly-added Primary Output > Properties, [Register](/SCREENSHOTS/PRIMARY_OUTPUT_DO_NOT_REGISTER.png) should be set to **`vsdrpDoNotRegister`**
 3. Select [View > Custom Actions](/SCREENSHOTS/CUSTOM_ACTIONS_VIEW.png) and add the Primary Output to each of the [four categories shown](/SCREENSHOTS/CUSTOM_ACTIONS_AUTO_INSTALLER.png)
-4. Press the F4 key and set Company Name etc. to values of your choice. 
+4. Press the F4 key and set Company Name etc. to values of your choice.
+5. Right-hand click and select View > User Interface > Installation Folder and set `InstallAllUsersVisible = False`
 
 Right-hand click the Primary Output in each of the four categories and 
 
