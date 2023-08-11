@@ -127,7 +127,11 @@ Note that the same Primary Output .dll file is used for both 32-bit and 64-bit i
 <details><summary>Build Setup Projects</summary>
 <p>
 * Right-hand click on each Setup project, select `Build` and check that an error-free build is produced. 
+* Test the build by selecting `Install` and complete the installation for your Office version (32/64 Bit)
+* Enable the Add-In from Excel and test your functions.
 * 
+
+
   
 
 
