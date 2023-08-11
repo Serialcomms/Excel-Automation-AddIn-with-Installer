@@ -95,7 +95,7 @@ Either of these files can be distributed to, and run by end users, to install an
 <details><summary>Automation Add-In - Excel Configuration</summary>
 <p>
 
-After running the [installer](/SCREENSHOTS/USER_INSTALL_01.jpg), users need to configure Excel to enable the Automation Add-In.
+After running the [installer](/SCREENSHOTS/USER_INSTALL_01.png), users need to configure Excel to enable the Automation Add-In.
 
 From Excel > File > Options > [Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_01.png) > [Manage Excel Add-Ins](/SCREENSHOTS/EXCEL_ADDIN_02.png) 
 
