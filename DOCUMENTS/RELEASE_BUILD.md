@@ -40,9 +40,9 @@ See [^1] for further information on Solutions and Projects.
 * Right-Hand click the new solution and select View Properties > Application.
 * Check that `Assembly name` and `Root namespace` are correct for your usage.
 * Check that the options below are **not** selected.
-- [ ] `Register for COM Interop` in section Compile 
 - [ ] `Make assembly COM-Visible` in section Application > Assembly Information
-
+- [ ] `Register for COM Interop` in section Compile (scroll down to view)
+- [ ] 
 </p>
 </details> 
 
