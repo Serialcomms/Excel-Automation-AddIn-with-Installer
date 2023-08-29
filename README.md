@@ -5,6 +5,8 @@ Full Microsoft Visual Studio 2022 solution and project source code.
 
 Installers for both 32-Bit and 64-Bit Office / Excel included.
 
+Click on Releases > Assets for pre-built examples.
+
 <details><summary>Background Information</summary>
 <p>
   
