@@ -15,14 +15,14 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_01D1533C4A325D07FEB6D79179742CB2"
-        "OwnerKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
+        "MsmKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_E7F39E95860CBA3F086AD8209B5B8308"
+        "OwnerKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -46,7 +46,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_01D1533C4A325D07FEB6D79179742CB2"
+        "OwnerKey" = "8:_E7F39E95860CBA3F086AD8209B5B8308"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -204,14 +204,14 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_01D1533C4A325D07FEB6D79179742CB2"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E7F39E95860CBA3F086AD8209B5B8308"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_01D1533C4A325D07FEB6D79179742CB2"
+                    "_E7F39E95860CBA3F086AD8209B5B8308"
                     {
                     "Name" = "8:System.Net.Http.dll"
                     "Attributes" = "3:512"
@@ -323,7 +323,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Automation FX (64-Bit)"
         "ProductCode" = "8:{4E2241C8-DB6C-4E89-B403-8953DE77F8CF}"
-        "PackageCode" = "8:{D1C04C67-1A8E-4F8E-8F05-481D047D2C9A}"
+        "PackageCode" = "8:{2DA468C0-0F2E-43A6-A62B-A0468B01A89A}"
         "UpgradeCode" = "8:{E5AF5F78-D40F-45D0-AA5E-FBA9F6651C7F}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"

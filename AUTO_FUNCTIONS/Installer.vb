@@ -13,9 +13,7 @@ Public Class Installer
     Public ASSEMBLY_NAME As Assembly
     Public ASSEMBLY_KEYNAME As String
     Public ASSEMBLY_DISPLAY_NAME As String
-    Public Const NEWLINE As String = vbCrLf & vbCrLf
     Public REGISTRATION_SERVICES As RegistrationServices
-
 
     Public Sub New()
 
@@ -135,6 +133,8 @@ Public Class Installer
     End Sub
 
     Public Sub INSTALL_ERROR(BOX_TITLE As String, MESSAGE As String, Optional EXTRA_TEXT As String = "")
+
+        Dim NEWLINE As String = vbCrLf & vbCrLf
 
         Dim BOXTEXT As String = NEWLINE
 

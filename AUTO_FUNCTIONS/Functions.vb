@@ -54,7 +54,7 @@ Public Class Functions
 
         DT = Now
 
-        TimeString = DT.ToLongTimeString.ToString() & "." & DT.Millisecond.ToString("D3")
+        TimeString = DT.ToLongTimeString & "." & DT.Millisecond.ToString("D3")
 
         Return TimeString
 
