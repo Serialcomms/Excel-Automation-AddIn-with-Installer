@@ -15,14 +15,14 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_01D1533C4A325D07FEB6D79179742CB2"
+        "OwnerKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E7F39E95860CBA3F086AD8209B5B8308"
-        "OwnerKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
+        "MsmKey" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -46,7 +46,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E7F39E95860CBA3F086AD8209B5B8308"
+        "OwnerKey" = "8:_01D1533C4A325D07FEB6D79179742CB2"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -168,7 +168,7 @@
             }
             "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_EA7F434D969141A597FA841976D3073E"
             {
-            "Name" = "8:Primary output from AUTO_FUNCTIONS (Active) [64-BIt]"
+            "Name" = "8:Primary output from AUTO_FUNCTIONS (Active) [64-Bit]"
             "Condition" = "8:"
             "Object" = "8:_A05DA3B232FC4D0FA0D76F12FE032C4A"
             "FileType" = "3:1"
@@ -204,14 +204,14 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E7F39E95860CBA3F086AD8209B5B8308"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_01D1533C4A325D07FEB6D79179742CB2"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_E7F39E95860CBA3F086AD8209B5B8308"
+                    "_01D1533C4A325D07FEB6D79179742CB2"
                     {
                     "Name" = "8:System.Net.Http.dll"
                     "Attributes" = "3:512"
@@ -323,7 +323,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Automation FX (64-Bit)"
         "ProductCode" = "8:{4E2241C8-DB6C-4E89-B403-8953DE77F8CF}"
-        "PackageCode" = "8:{2DA468C0-0F2E-43A6-A62B-A0468B01A89A}"
+        "PackageCode" = "8:{8D73CBD9-C3EF-4005-B3C8-582CED4272F5}"
         "UpgradeCode" = "8:{E5AF5F78-D40F-45D0-AA5E-FBA9F6651C7F}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
